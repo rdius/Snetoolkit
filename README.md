@@ -32,18 +32,19 @@ Install the requiered packages:
     pip install -r requirements.txt
 
 If you want to extract SNE (only GPE & LOC are considered) from text:
-
+   ``` python
    from Snetkit import spacySne
    from Snetkit import getDefltCand   
    from Snetkit import getMultiCand
    
    doc = "The U.S. Food and Drug Administration (FDA) has issued a recall on Salmonella contaminated Pistachios for 31 states in the United States. Our advice to consumers is that they avoid eating pistachio products, that they hold onto those products, that at this stage they don't throw them out, they simply hold on to them as we're learning more about them to determine if they're part of the recall, said Dr. David Acheson, associated FDA commissioner for food. However, it is expected that the recalled list may grow as the investigation continues. Kroger Co. is recalling shelled pistachios called Private Selection Shelled Pistachios in a 10-ounce container with UPC code 111073615 and the sell dates of December 13 or 14 on the packages. Setton Farms based in California, the pistachio supplier, is voluntarily recalling their pistachios. Products containing pistachios have not yet been recalled, but are under investigation. The salmonella contamination was discovered by Kraft foods during routine testing last Tuesday, before any illness were reported. They notified the FDA and the FDA notified Setton Farms. So far the source of contamination has not been revealed.  The 31 states initially affected are: (in alphabetical order) : Alaska, Alabama, Arizona, Arkansas, California, Colorado, Georgia, Idaho, Illinois, Indiana, Kansas, Kentucky, Louisiana, Michigan, Missouri, Mississippi, Montana, Nebraska, etc."
    
-   >>> sne_list = spacySne(doc) # extract the list of SNE mentionned in the text
+   sne_list = spacySne(doc) # extract the list of SNE mentionned in the text
    
       ['United States', 'California', 'Alaska', 'Alabama', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Georgia', 'Idaho', 'Illinois', 'Indiana', 'Kansas', 'Kentucky', 'Louisiana', 'Michigan', 'Missouri', 'Mississippi', 'Montana', 'Nebraska']
    
-   >>> df = getDefltCand(sne_list)
+   df = getDefltCand(sne_list)
+   
                                          name        lat         lng Country Code Type  Population
       0                      South America  -14.60485   -57.65625         None    L   385742554
       1                            Arizona    34.5003  -111.50098           US    A     5863809
@@ -66,13 +67,14 @@ If you want to extract SNE (only GPE & LOC are considered) from text:
       18                           Montana   47.00025  -109.75102           US    A      930698
    
    
-   >>> getMultiCand(sne_list,'multi_cand_file') # extract multicandidate for each input SNE from Geonames
+   getMultiCand(sne_list,'multi_cand_file') # extract multicandidate for each input SNE from Geonames
 
 You can now apply the s=disambiguation process on your multi candidates file
 
    from main import applyDesamb
    
-   >>> applyDesamb('./candidates/multi_cand_file.json')
+   applyDesamb('./candidates/multi_cand_file.json')
+   ```
 
 As the disambiguation is process in several steps, the output are :
 
