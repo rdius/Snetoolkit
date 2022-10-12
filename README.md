@@ -24,8 +24,9 @@ Quick start
 -----------
 
 First, you to clone the project: 
-
+   ```
    git clone https://github.com/rdius/Snetoolkit.git
+   ```
 
 Install the requiered packages:
 
