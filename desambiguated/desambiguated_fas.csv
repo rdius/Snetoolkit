@@ -1,0 +1,4 @@
+Output_sne,lat,lng,Country_Code,Type,Population,Desamb_Phase,input_sne,source
+Alaska,64.00028,-150.00028,US,A,660633,fuzzySWHighMatch1,Alaska,doc
+Alabama,32.75041,-86.75026,US,A,4530315,fuzzySWHighMatch1,Alabama,doc
+Arizona,34.5003,-111.50098,US,A,5863809,fuzzySWHighMatch1,Arizona,doc
