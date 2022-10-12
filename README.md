@@ -23,7 +23,9 @@ The Snetoolkit  is a set of tools that helps to deal with Spatial Named Entities
 Quick start
 -----------
 
-First, you to clone the project: 
+First, you need to edit the params.py file in order to provide your Geonames key.
+
+Then clone the project: 
    ```
    git clone https://github.com/rdius/Snetoolkit.git
    ```
