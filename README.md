@@ -42,7 +42,7 @@ If you want to extract SNE (only GPE & LOC are considered) from text, geocod and
    
    sne_list = spacySne(doc) # extract the list of SNE mentionned in the text
    
-      >>> ['United States', 'California', 'Alaska', 'Alabama', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Georgia', 'Idaho', 'Illinois', 'Indiana', 'Kansas', 'Kentucky', 'Louisiana', 'Michigan', 'Missouri', 'Mississippi', 'Montana', 'Nebraska']
+   >>> ['United States', 'California', 'Alaska', 'Alabama', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Georgia', 'Idaho', 'Illinois', 'Indiana', 'Kansas', 'Kentucky', 'Louisiana', 'Michigan', 'Missouri', 'Mississippi', 'Montana', 'Nebraska']
    
    df = getDefltCand(sne_list)
    
@@ -86,5 +86,8 @@ As the disambiguation is process in several steps, the output are :
 - ./disambiguated/desambiguated_fas.csv -> third round of disambiguation using Fuzzy, alias and scoring Methods
 
 Respectively, in the same path ./disambiguated, you will find the corresponding non-ambiguous SNE files
+
+Waiting for your feedback!
+-------------------------
 
 
