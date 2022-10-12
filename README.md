@@ -41,7 +41,7 @@ If you want to extract SNE (only GPE & LOC are considered) from text:
    
    sne_list = spacySne(doc) # extract the list of SNE mentionned in the text
    
-      ['United States', 'California', 'Alaska', 'Alabama', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Georgia', 'Idaho', 'Illinois', 'Indiana', 'Kansas', 'Kentucky', 'Louisiana', 'Michigan', 'Missouri', 'Mississippi', 'Montana', 'Nebraska']
+      >>> ['United States', 'California', 'Alaska', 'Alabama', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Georgia', 'Idaho', 'Illinois', 'Indiana', 'Kansas', 'Kentucky', 'Louisiana', 'Michigan', 'Missouri', 'Mississippi', 'Montana', 'Nebraska']
    
    df = getDefltCand(sne_list)
    
