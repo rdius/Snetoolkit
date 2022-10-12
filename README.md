@@ -31,7 +31,8 @@ Install the requiered packages:
 
     pip install -r requirements.txt
 
-If you want to extract SNE (only GPE & LOC are considered) from text:
+If you want to extract SNE (only GPE & LOC are considered) from text, geocod and disambiguate them:
+
    ``` python
    from Snetkit import spacySne
    from Snetkit import getDefltCand   
@@ -44,6 +45,8 @@ If you want to extract SNE (only GPE & LOC are considered) from text:
       >>> ['United States', 'California', 'Alaska', 'Alabama', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Georgia', 'Idaho', 'Illinois', 'Indiana', 'Kansas', 'Kentucky', 'Louisiana', 'Michigan', 'Missouri', 'Mississippi', 'Montana', 'Nebraska']
    
    df = getDefltCand(sne_list)
+   
+   >>>
    
                                          name        lat         lng Country Code Type  Population
       0                      South America  -14.60485   -57.65625         None    L   385742554
@@ -69,7 +72,7 @@ If you want to extract SNE (only GPE & LOC are considered) from text:
    
    getMultiCand(sne_list,'multi_cand_file') # extract multicandidate for each input SNE from Geonames
 
-You can now apply the s=disambiguation process on your multi candidates file
+   # You can now apply the s=disambiguation process on your multi candidates file
 
    from main import applyDesamb
    
