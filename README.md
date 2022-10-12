@@ -5,9 +5,9 @@
 
 2 -  SNE Geocoding : gives coordinate of a given SNE based on the Geonames DataBase. There two type of geocoding 
 
-     * default candidate geocoding : return one candidate that corresponds to the default result of Geoname
+     * default candidate geocoding : return one candidate that corresponds to the default result of Geoname;
      
-     * multi candidates geocoding  : return a top@X (e.g, top@10 - frist 10 results) candidates from Geonames result
+     * multi candidates geocoding  : return a top@X (e.g, top@10 - frist 10 results) candidates from Geonames result.
      
 3 -  Disambiguation of ambiguous SNE
 
