@@ -1,5 +1,5 @@
 <img src="http://mypy-lang.org/static/mypy_light.svg" alt="mypy logo" width="300px"/>
----------------------------------------------------
+=============================================================================================
 
 ### Snetoolkit is a set of tools that helps to deal with Spatial Named Entities (SNE). There are three mains functionnalities:
 
