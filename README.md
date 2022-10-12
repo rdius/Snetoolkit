@@ -3,7 +3,6 @@
 
 [![Documentation Status]([]())]()
 
-[![Documentation Status](https://docs.google.com/document/d/1KpS31tPzXV_MPS0bz4GA9yYQ-vcX2l8cc0ZCSU3tEyg/edit)](https://mypy.readthedocs.io/en/latest/?badge=latest)
 
 
 
@@ -11,8 +10,8 @@
 
 
 
-
-### Snetoolkit is a set of tools that helps to deal with Spatial Named Entities (SNE). There are three mains functionnalities:
+**Snetoolkit is a set of tools that helps to deal with Spatial Named Entities (SNE). There are three mains functionnalities 
+---------------
 
 
 1 -  Extraction of SNE from textual document : this function is based on spacy
