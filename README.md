@@ -1,8 +1,21 @@
 <img src="http://mypy-lang.org/static/mypy_light.svg" alt="mypy logo" width="300px"/>
-=============================================================================================
+-----------------------------------------
 
 [![Documentation Status]([]())]()
 
+
+Main description
+----------------
+
+In Natural Language Processing (NLP), the notion of space becomes a very important component when it comes to analyzing textual data that describe or report  spatio-temporal events. Commonly identified and called Spatial Named Entities (SNE), they correspond to the place names that are mentioned in a document. We can distinguish two types: absolute named entities, or those that can be identified by longitude, latitude coordinates, such as city names (e.g. Montpellier, France, etc.) and relative named entities that are generally defined by complements of indication, or direction, etc. (ex: North of Paris, South of France, etc.). 
+
+Analyzing a document taking into account the place names can be a great challenge, since it can carry several nuances, making it ambiguous. We can distinguish three common cases of ambiguity:
+
+   - Case No.1 : a spatial named entity can be shared by different places (e.g. Montpellier from France and Montpellier from Canada);
+   - Case No.2 : a spatial named entity can designate both a place and a non-place (e.g. a lake named after a person);
+   - Case No.3 : the same place can be designated by several names or several appellations.
+
+The Snetoolkit is a python module called that allows to overcome the different forms of ambiguity that a spatial entity detected in a document can encounter.
 
 
 Snetoolkit 
