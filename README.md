@@ -43,6 +43,9 @@ Then clone the project:
    ```
    git clone https://github.com/rdius/Snetoolkit.git
    ```
+   ```
+   Get your Geonames API key and specify it in the params.py file
+   ```
 
 Install the requiered packages:
 
