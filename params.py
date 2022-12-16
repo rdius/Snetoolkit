@@ -11,7 +11,7 @@ nlp_model = spacy.load('en_core_web_trf')
 
 #########  geonames var
 import geocoder
-key='kafando.rodrique'
+key='' # specify your geonames key
 
 country_alias = {'US' : ['United States', 'United States of America'],
                  'USA': ['United States of America', 'United States'],
