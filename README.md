@@ -110,5 +110,4 @@ Respectively, in the same path ./disambiguated, you will find the corresponding 
 
 Waiting for your feedback!
 -------------------------
-
-
+![alt tag](./comp.png)
