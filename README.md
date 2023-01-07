@@ -1,5 +1,5 @@
 -----------------------------------------
-![alt tag](./process.png)
+![alt tag](./comp.png)
 
 
 [![Documentation Status]([]())]()
@@ -110,4 +110,4 @@ Respectively, in the same path ./disambiguated, you will find the corresponding 
 
 Waiting for your feedback!
 -------------------------
-![alt tag](./comp.png)
+![alt tag](./process.png)
