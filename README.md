@@ -2,9 +2,6 @@
 ![alt tag](./comp.png)
 
 
-[![Documentation Status]([]())]()
-
-
 Main description
 ----------------
 
@@ -44,7 +41,7 @@ Then clone the project:
    git clone https://github.com/rdius/Snetoolkit.git
    ```
    ```
-   Get your Geonames API key and specify it in the params.py file
+   You can specify your Geonames API key in the src.params.py file
    ```
 
 Install the requiered packages:
@@ -97,14 +94,14 @@ If you want to extract SNE (only GPE & LOC are considered) from text, geocod and
 
    from main import applyDesamb
    
-   applyDesamb('./candidates/multi_cand_file.json')
+   applyDisamb('./candidates/multi_cand_file.json')
    ```
 
 As the disambiguation is process in several steps, the output are :
 
-- ./disambiguated/desambiguated_f.csv -> first round of disambiguation using Fuzzy Method
-- ./disambiguated/desambiguated_fa.csv -> 2nd round of disambiguation using Fuzzy and alias Methods
-- ./disambiguated/desambiguated_fas.csv -> third round of disambiguation using Fuzzy, alias and scoring Methods
+- ./disambiguated/disambiguated_f.csv -> first round of disambiguation using Fuzzy Method
+- ./disambiguated/disambiguated_fa.csv -> 2nd round of disambiguation using Fuzzy and alias Methods
+- ./disambiguated/disambiguated_fas.csv -> third round of disambiguation using Fuzzy, alias and scoring Methods
 
 Respectively, in the same path ./disambiguated, you will find the corresponding non-ambiguous SNE files
 
