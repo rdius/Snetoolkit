@@ -105,6 +105,7 @@ As the disambiguation is process in several steps, the output are :
 
 Respectively, in the same path ./disambiguated, you will find the corresponding non-ambiguous SNE files
 
+- Main architecture
 ![alt tag](./process.png)
 
 Waiting for your feedback!
