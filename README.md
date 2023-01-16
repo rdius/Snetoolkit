@@ -92,7 +92,7 @@ If you want to extract SNE (only GPE & LOC are considered) from text, geocod and
 
    # You can now apply the s=disambiguation process on your multi candidates file
 
-   from main import applyDisamb
+   from Snetkit import applyDisamb
    
    applyDisamb('./candidates/multi_cand_file.json')
    ```
