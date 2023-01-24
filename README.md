@@ -55,6 +55,7 @@ If you want to extract SNE (only GPE & LOC are considered) from text, geocod and
    from Snetkit import spacySne # for SNE extraction
    from Snetkit import getDefltCand   # for default geocoding
    from Snetkit import getMultiCand # for multi candidate, uuse this for disambiguation purpose
+   from Snetkit import applyDisamb # apply disambiguation on multi-candidate extrated SNE
    
    doc = "The U.S. Food and Drug Administration (FDA) has issued a recall on Salmonella contaminated Pistachios for 31 states in the United States. Our advice to consumers is that they avoid eating pistachio products, that they hold onto those products, that at this stage they don't throw them out, they simply hold on to them as we're learning more about them to determine if they're part of the recall, said Dr. David Acheson, associated FDA commissioner for food. However, it is expected that the recalled list may grow as the investigation continues. Kroger Co. is recalling shelled pistachios called Private Selection Shelled Pistachios in a 10-ounce container with UPC code 111073615 and the sell dates of December 13 or 14 on the packages. Setton Farms based in California, the pistachio supplier, is voluntarily recalling their pistachios. Products containing pistachios have not yet been recalled, but are under investigation. The salmonella contamination was discovered by Kraft foods during routine testing last Tuesday, before any illness were reported. They notified the FDA and the FDA notified Setton Farms. So far the source of contamination has not been revealed.  The 31 states initially affected are: (in alphabetical order) : Alaska, Alabama, Arizona, Arkansas, California, Colorado, Georgia, Idaho, Illinois, Indiana, Kansas, Kentucky, Louisiana, Michigan, Missouri, Mississippi, Montana, Nebraska, etc."
    
@@ -91,8 +92,6 @@ If you want to extract SNE (only GPE & LOC are considered) from text, geocod and
    getMultiCand(sne_list,'multi_cand_file') # extract multicandidate for each input SNE from Geonames
 
    # You can now apply the s=disambiguation process on your multi candidates file
-
-   from Snetkit import applyDisamb
    
    applyDisamb('./candidates/multi_cand_file.json')
    ```
