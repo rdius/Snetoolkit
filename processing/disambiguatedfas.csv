@@ -1,0 +1,1363 @@
+Output_sne,lat,lng,Country_Code,Type,Population,Desamb_Phase,input_sne,source
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Eu,%22Aggressive%22_Bird_Flu_found_in_Sweden
+Bergen auf Rügen,54.41823,13.43349,DE,P,14771,defaultgeo,Rügen,%22Aggressive%22_Bird_Flu_found_in_Sweden
+City of Baltic,43.76031,-96.73698,US,A,1089,defaultgeo,Baltic Sea,%22Aggressive%22_Bird_Flu_found_in_Sweden
+Queen Anne's,39.03763,-76.08504,US,A,47798,defaultgeo,Queen Anne's County,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+Crawford,32.7145,-83.98634,US,A,12404,defaultgeo,Crawford County,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+India,22,79,IN,A,1352617328,defaultgeo,Asia,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+North Sumatra,2,99,ID,A,9630873,defaultgeo,Sumatra,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+Zamfara State,12.16667,6.25,NG,A,3602356,defaultgeo,Zamfara,163_dead_after_lead_poisoning_in_Nigeria
+French Southern Territories,-43,67,TF,A,140,defaultgeo,Indian Ocean,"186,000_cases_of_chikungunya_in_R%C3%A9union"
+French Southern Territories,-43,67,TF,A,140,defaultgeo,Indian Ocean,"750,000_could_be_affected_by_flooding_in_Kenya,_UN_says"
+Peru,-10,-75.25,PE,A,31989256,defaultgeo,Pacific,"750,000_could_be_affected_by_flooding_in_Kenya,_UN_says"
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,African_leaders_start_drive_to_eradicate_malaria
+Canada,60.10867,-113.64258,CA,A,37058856,defaultgeo,North America,Alarm_sounded_over_US_honey_bee_die-off
+Uíge,-7.10719,15.44056,AO,A,1426354,defaultgeo,Uige,"Angola:_Marburg_virus_still_spreading,_180_dead"
+India,22,79,IN,A,1352617328,defaultgeo,Asia,Asian_monsoon_rains_force_millions_to_flee
+Croatia,45.16667,15.5,HR,A,4089400,defaultgeo,Mediterranean,Avian_Flu_is_confirmed_in_Egypt
+Minya,28.09193,30.75813,EG,P,283605,defaultgeo,Al-Minya,Avian_Flu_is_confirmed_in_Egypt
+Port-au-Prince,18.54349,-72.33881,HT,P,1234742,defaultgeo,West Prince,Avian_flu_found_in_eastern_Canada
+Henderson,36.0397,-114.98194,US,P,285667,defaultgeo,Clark County,B.B._King%27s_daughters_allege_blues_musician_was_poisoned
+Jammu and Kashmir,33.5329,75.40781,IN,A,12258433,defaultgeo,Kashmir,Bad_weather_makes_life_tougher_for_quake_survivors
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,Bluetongue_disease_appears_in_UK_for_the_first_time
+Finland,64,26,FI,A,5518050,defaultgeo,Northern Europe,Bluetongue_outbreak_in_Germany
+United Kingdom,54.75844,-2.69531,GB,A,66488991,defaultgeo,Britain,Britain%27s_deadly_bug_possibly_imported_from_U.S._or_Canada
+China,35,105,CN,A,1411778724,defaultgeo,People's Republic of China,Child_virus_outbreak_reaches_Beijing
+North Macedonia,41.66667,21.75,MK,A,2082958,defaultgeo,Macedonia,China_and_Europe_face_new_avian_flu_outbreaks
+Dallas,32.78306,-96.80667,US,P,1300092,defaultgeo,Dallas County,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+Dallas,32.78306,-96.80667,US,P,1300092,defaultgeo,North Dallas,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+East Java,-7.7394,112.5099,ID,A,22200177,defaultgeo,Java,Death_toll_in_Indonesian_tsunami_continues_to_rise
+Northern Darfur,16,25.5,SD,A,1583179,defaultgeo,Darfur,"Disease_scare_in_south_Sudan,_aid_groups_return"
+Nyala,12.04888,24.88069,SD,P,565734,defaultgeo,South Darfur,"Disease_scare_in_south_Sudan,_aid_groups_return"
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,"Drug-resistant_flu_rising,_says_WHO"
+Peru,-10,-75.25,PE,A,31989256,defaultgeo,Pacific,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+Northwest Territories,69.50061,-121.50445,CA,A,31247,defaultgeo,Pacific Northwest,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+India,22,79,IN,A,1352617328,defaultgeo,Asia,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+Canada,60.10867,-113.64258,CA,A,37058856,defaultgeo,North America,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+Croatia,45.16667,15.5,HR,A,4089400,defaultgeo,Mediterranean,Dutch_sheep_contaminated_by_bluetongue
+DR Congo,-2.5,23.5,CD,A,84068091,defaultgeo,Republic of Congo,Ebola_outbreak_in_Congo
+India,22,79,IN,A,1352617328,defaultgeo,Asia,Effort_on_to_eradicate_Polio_from_Asia_in_2005
+Al Mansurah,31.03637,31.38069,EG,P,621953,defaultgeo,Daqahliya,Egyptian_woman_becomes_third_to_die_of_bird_flu_in_a_week
+Banī Suwayf,29.07441,31.09785,EG,P,273151,defaultgeo,Beni Suef,Egyptian_woman_becomes_third_to_die_of_bird_flu_in_a_week
+San Fernando,16.81539,121.72214,PH,A,0,defaultgeo,San Fernando Valley,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,"Eritrea_plans_to_vaccinate_500,000_children"
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Western Europe,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Karabük,41.25,32.5,TR,A,230251,defaultgeo,Black Sea,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Central Jutland,56.16667,9.5,DK,A,1253998,defaultgeo,Jutland,Exploding_toads_confuse_scientists
+United Kingdom,54.75844,-2.69531,GB,A,66488991,defaultgeo,Britain,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+Rania District,36.2571,44.88275,IQ,A,0,defaultgeo,Ranya,First_Iraqi_case_of_Avian_Flu_reported
+United Kingdom,54.75844,-2.69531,GB,A,66488991,defaultgeo,Britain,"Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected"
+West Bromwich,52.51868,-1.9945,GB,P,135618,defaultgeo,West Midlands,"Four_people_die_after_contracting_H1N1_swine_flu_virus_in_West_Midlands,_England"
+Peru,-10,-75.25,PE,A,31989256,defaultgeo,South America,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+India,22,79,IN,A,1352617328,defaultgeo,Asia,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+Puławy,51.41655,21.96939,PL,P,49759,defaultgeo,Pulawy,H5N1_bird_flu_virus_reaches_Poland
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,H5N1_confirmed_in_France
+Dallas,32.78306,-96.80667,US,P,1300092,defaultgeo,Dallas County,HIV-positive_man_receives_35_years_for_spitting_on_Dallas_police_officer
+Kasaï-Occidental,-5.33333,21.58333,CD,A,4545940,defaultgeo,Kasai Occidental,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+Kasaï-Occidental,-5.33333,21.58333,CD,A,4545940,defaultgeo,West Kasai,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+China,35,105,CN,A,1411778724,defaultgeo,People's Republic of China,"Highly_contagious_Hand,_foot_and_mouth_disease_killing_China%27s_children"
+Akita,39.71667,140.11667,JP,P,305625,defaultgeo,Akita Prefecture,Hong_Kong_flu_kills_six_in_Japan
+Davenport,41.52364,-90.57764,US,P,102582,defaultgeo,Scott County,Indiana_Governor_signs_needle_exchange_program
+North Sumatra,2,99,ID,A,9630873,defaultgeo,Sumatra,Indonesian_Health_Ministry:_Two_new_human_clusters_of_Bird_Flu_suspected_in_Sumatra
+Province of Pangasinan,15.91667,120.33333,PH,A,3163190,defaultgeo,Pangasinan,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Province of Nueva Ecija,15.58333,121,PH,A,2310134,defaultgeo,Nueva Ecija,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Canada,60.10867,-113.64258,CA,A,37058856,defaultgeo,North America,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Central Luzon,15.30714,120.79762,PH,A,10137737,defaultgeo,Luzon,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Kasaï-Occidental,-5.33333,21.58333,CD,A,4545940,defaultgeo,Western Kasai,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Malingao,7.16083,124.475,PH,P,1121974,defaultgeo,South Cotabato,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Davao City,7.07306,125.61278,PH,P,1776949,defaultgeo,Davao Del Sur,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Budta,7.20417,124.43972,PH,P,1273715,defaultgeo,Mindanao,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+India,22,79,IN,A,1352617328,defaultgeo,Asia,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Tỉnh Bình Phước,11.75,106.91667,VN,A,823600,defaultgeo,Binh Phuoc,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Metairie,29.98409,-90.15285,US,P,138481,defaultgeo,Jefferson Parish,Katrina_survivor_searchers_prepare_for_the_worst
+Saint Bernard,29.87399,-89.82422,US,A,43764,defaultgeo,Saint Bernard Parish,Katrina_survivor_searchers_prepare_for_the_worst
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,Kenya_confirms_first_swine_flu_case
+United Kingdom,54.75844,-2.69531,GB,A,66488991,defaultgeo,Britain,Kenya_confirms_first_swine_flu_case
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,Libya_frees_foreign_HIV_medics
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,M%C3%A9decins_Sans_Fronti%C3%A8res_warns_of_emerging_crisis_in_eastern_Chad
+Northern Darfur,16,25.5,SD,A,1583179,defaultgeo,Darfur,M%C3%A9decins_Sans_Fronti%C3%A8res_warns_of_emerging_crisis_in_eastern_Chad
+Plateau-Central,12.58774,-1.30102,BF,A,696372,defaultgeo,Central Plateau,Nearly_200_dead_in_Haitian_cholera_outbreak
+Jammu and Kashmir,33.5329,75.40781,IN,A,12258433,defaultgeo,Kashmir,New_Zealand_journalists_fall_ill_on_testing_water_filter
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,New_avian_flu_outbreaks_reported_in_western_Europe
+India,22,79,IN,A,1352617328,defaultgeo,Asia,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+Østfold county,59.2752,11.1058,NO,A,258542,defaultgeo,Østfold,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+East Java,-7.7394,112.5099,ID,A,22200177,defaultgeo,Java,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+Rift Valley Province,0.5,36,KE,A,6987036,defaultgeo,Rift Valley,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+North Korea,40,127,KP,A,25549819,defaultgeo,North Eastern,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Guinea,10.83333,-10.66667,GN,A,12414318,defaultgeo,Western,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Bunyala Location,0.41667,34.66667,KE,A,0,defaultgeo,Bunyala,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,"Pamela_Anderson_visits_Greece,_promoting_the_MAC_AIDS_Fund"
+India,22,79,IN,A,1352617328,defaultgeo,Asia,Papua_New_Guinea_at_risk_of_AIDS_epidemic
+Province of Pangasinan,15.91667,120.33333,PH,A,3163190,defaultgeo,Pangasinan,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+Cabanatuan City,15.48586,120.96648,PH,P,327325,defaultgeo,Cabanatuan,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+Province of Nueva Ecija,15.58333,121,PH,A,2310134,defaultgeo,Nueva Ecija,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+Zaire,-6.58717,13.51966,AO,A,567225,defaultgeo,Zaïre,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+Cabo Verde,16,-24,CV,A,543767,defaultgeo,Cape Verde,Polio_vaccination_campaign_targets_85_million_African_children
+The Gambia,13.5,-15.5,GM,A,2280102,defaultgeo,Gambia,Polio_vaccination_campaign_targets_85_million_African_children
+Salinas,16.3695,121.0188,PH,P,2506,defaultgeo,Salinas Valley,Recent_American_E._coli_outbreak_linked_to_cattle
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+Oman,21,57,OM,A,4829483,defaultgeo,Middle East,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+United Kingdom,54.75844,-2.69531,GB,A,66488991,defaultgeo,Britain,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,Study_estimates_first_human_HIV_infection_100_years_ago
+Kinshasa,-4.32758,15.31357,CD,P,7785965,defaultgeo,Léopoldville,Study_estimates_first_human_HIV_infection_100_years_ago
+Al Jazīrah,14.6,33.35,SD,A,2796330,defaultgeo,Al Jazirah,Sudan_reports_first_bird_flu_case
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,Sudan_reports_first_bird_flu_case
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,Sudan_reports_first_bird_flu_case
+India,22,79,IN,A,1352617328,defaultgeo,Asia,Sudan_reports_first_bird_flu_case
+Oman,21,57,OM,A,4829483,defaultgeo,Middle East,Sudan_reports_first_bird_flu_case
+New York,40.71427,-74.00597,US,P,8804190,defaultgeo,New York City,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+Lake City,42.01422,-80.34534,US,P,2965,defaultgeo,Lake Erie,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+Bloomington,39.16533,-86.52639,US,P,84067,defaultgeo,Monroe County,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+Canada,60.10867,-113.64258,CA,A,37058856,defaultgeo,North America,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+India,22,79,IN,A,1352617328,defaultgeo,Asia,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+São Paulo,-23.5475,-46.63611,BR,P,10021295,defaultgeo,Sao Paulo,"Swine_flu,_in-depth:_worldwide_report"
+Rift Valley Province,0.5,36,KE,A,6987036,defaultgeo,Rift Valley,"Swine_flu,_in-depth:_worldwide_report"
+United Kingdom,54.75844,-2.69531,GB,A,66488991,defaultgeo,Britain,"Swine_flu,_in-depth:_worldwide_report"
+Peru,-10,-75.25,PE,A,31989256,defaultgeo,South America,Swine_flu_deaths_reported_in_Argentina
+Mozambique,-18.25,35,MZ,A,29495962,defaultgeo,East Africa,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+Canada,60.10867,-113.64258,CA,A,37058856,defaultgeo,North America,Swine_flu_worldwide:_update
+New York,40.71427,-74.00597,US,P,8804190,defaultgeo,New York City,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+Luzhu,22.85,120.26667,TW,A,0,defaultgeo,Lujhu,Taiwan_culls_18000_chickens_due_to_H5N2_virus_outbreak
+Peru,-10,-75.25,PE,A,31989256,defaultgeo,South America,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+India,22,79,IN,A,1352617328,defaultgeo,Asia,"Tsunami_deaths_mount_to_more_than_120,000"
+Doğubayazıt İlçesi,39.55601,44.08912,TR,A,119614,defaultgeo,Dogubayazit,Turkish_government_accused_of_being_too_slow_to_respond_to_bird_flu
+United Kingdom,54.75844,-2.69531,GB,A,66488991,defaultgeo,Britain,Turkish_teenager_dies_from_bird_flu
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,Turkish_teenager_dies_from_bird_flu
+Amedi,37.09335,43.48829,IQ,A,0,defaultgeo,Adhamiyah,Two_children_killed_after_eating_poisonous_cake_in_Iraq
+Bas-Congo,-5.33333,14.33333,CD,A,3802736,defaultgeo,Bas Congo Province,UNHCR:_Thousands_of_Angolans_expelled_from_DRC_in_%22dire%22_need_of_aid
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,UN_appeals_for_US$42_million_to_assist_victims_of_Kenya_violence
+New York,40.71427,-74.00597,US,P,8804190,defaultgeo,New York City,US_declares_public_health_emergency_over_spread_of_swine_flu
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,US_soldier_who_died_after_serving_in_Liberia_tests_negative_for_Ebola
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,WHO:_Polio_reemerging_in_Africa
+Kasaï-Occidental,-5.33333,21.58333,CD,A,4545940,defaultgeo,Kasai Occidental,WHO_investigates_outbreak_of_unidentified_illness_in_Democratic_Republic_of_the_Congo
+Kars,40.41667,43.08333,TR,A,300874,defaultgeo,Eastern Mediterranean,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+Oman,21,57,OM,A,4829483,defaultgeo,Middle East,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,West Africa,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,West Africa,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Ivory Coast,8,-5.5,CI,A,25069229,defaultgeo,Cote d'Ivoire,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Central Africa,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Atlanta,33.749,-84.38798,US,P,463878,defaultgeo,Fulton County,Wild_ducks_in_Illinois_test_positive_for_%22low_pathogenic%22_Bird_Flu_virus
+India,22,79,IN,A,1352617328,defaultgeo,Asia,Wild_ducks_in_Illinois_test_positive_for_%22low_pathogenic%22_Bird_Flu_virus
+Austria,47.33333,13.33333,AT,A,8847037,defaultgeo,Europe,Wild_ducks_in_Illinois_test_positive_for_%22low_pathogenic%22_Bird_Flu_virus
+Angola,-12.5,18.5,AO,A,30809762,defaultgeo,Africa,Wild_ducks_in_Illinois_test_positive_for_%22low_pathogenic%22_Bird_Flu_virus
+Mashonaland East Province,-17.96667,31.66667,ZW,A,1167065,defaultgeo,Mashonaland East,"With_arrival_of_rainy_season,_perennial_scramble_in_Zimbabwe_for_seed,_fertilizer"
+Santa Clara,37.35411,-121.95524,US,P,126215,defaultgeo,Santa Clara County,Woman_finds_human_finger_in_bowl_of_chili_at_Wendy%27s_restaurant
+India,22,79,IN,A,1352617328,defaultgeo,Asia,World_Bank_warns_of_high_bird_flu_cost
+Myanmar,21,96,MM,A,53708395,defaultgeo,Burma,World_Bank_warns_of_high_bird_flu_cost
+China,35,105,CN,A,1411778724,defaultgeo,People's Republic of China,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+India,22,79,IN,A,1352617328,defaultgeo,Asia,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+Oskarshamn,57.26455,16.44837,SE,P,18287,fuzzySWHighMatch1,oskarshamn,%22Aggressive%22_Bird_Flu_found_in_Sweden
+Sweden,62.0,15.0,SE,A,10183175,fuzzySWHighMatch1,sweden,%22Aggressive%22_Bird_Flu_found_in_Sweden
+Uppsala,60.0,17.75,SE,A,341977,fuzzySWHighMatch1,uppsala,%22Aggressive%22_Bird_Flu_found_in_Sweden
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,%22Aggressive%22_Bird_Flu_found_in_Sweden
+Pennsylvania,40.8,-77.7,US,A,12440621,fuzzySWHighMatch1,pennsylvania,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+Maryland,39.00039,-76.74997,US,A,5624246,fuzzySWHighMatch1,maryland,%22Low_pathogenic%22_H5N1_Bird_Flu_virus_found_in_wild_ducks_in_Maryland_and_Pennsylvania
+Kabanjahe,3.1001,98.4908,ID,P,57159,fuzzySWHighMatch1,kabanjahe,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+Indonesia,-5.0,120.0,ID,A,267663435,fuzzySWHighMatch1,indonesia,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+Atlanta,33.749,-84.38798,US,P,463878,fuzzySWHighMatch1,atlanta,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+Georgia,32.75042,-83.50018,US,A,8975842,fuzzySWHighMatch1,georgia,%22No_H5N1_virus%22_found_in_blood_tests_of_suspected_human_Bird_Flu_cluster
+Port-au-Prince,18.54349,-72.33881,HT,P,1234742,fuzzySWHighMatch1,port-au-prince,"%27Explosive%27_Haitian_cholera_outbreak_kills_292,_neighboring_countries_prepare"
+Dominican Republic,19.0,-70.66667,DO,A,10627165,fuzzySWHighMatch1,dominican republic,"%27Explosive%27_Haitian_cholera_outbreak_kills_292,_neighboring_countries_prepare"
+Jamaica,18.16667,-77.25,JM,A,2934855,fuzzySWHighMatch1,jamaica,"%27Explosive%27_Haitian_cholera_outbreak_kills_292,_neighboring_countries_prepare"
+Haiti,19.07582,-72.29616,HT,A,11123176,fuzzySWHighMatch1,haiti,"%27Explosive%27_Haitian_cholera_outbreak_kills_292,_neighboring_countries_prepare"
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,"150,000_street_vendors_in_India_shown_how_to_avoid_causing_%27Delhi_belly%27"
+Delhi,28.6667,77.1,IN,A,16787941,fuzzySWHighMatch1,delhi,"150,000_street_vendors_in_India_shown_how_to_avoid_causing_%27Delhi_belly%27"
+Calcutta,40.6734,-80.57646,US,P,3742,fuzzySWHighMatch1,calcutta,"150,000_street_vendors_in_India_shown_how_to_avoid_causing_%27Delhi_belly%27"
+Nigeria,10.0,8.0,NG,A,195874740,fuzzySWHighMatch1,nigeria,163_dead_after_lead_poisoning_in_Nigeria
+Réunion,-21.10044,55.60206,RE,A,794107,fuzzySWHighMatch1,réunion,"186,000_cases_of_chikungunya_in_R%C3%A9union"
+Seychelles,-4.58333,55.66667,SC,A,96762,fuzzySWHighMatch1,seychelles,"186,000_cases_of_chikungunya_in_R%C3%A9union"
+Mayotte,-12.83333,45.16667,YT,A,279471,fuzzySWHighMatch1,mayotte,"186,000_cases_of_chikungunya_in_R%C3%A9union"
+Arkansas,34.75037,-92.50044,US,A,2757631,fuzzySWHighMatch1,arkansas,2014_flu_season_in_USA
+Colorado,39.00027,-105.50083,US,A,4678630,fuzzySWHighMatch1,colorado,2014_flu_season_in_USA
+Delaware,39.00039,-75.49992,US,A,838549,fuzzySWHighMatch1,delaware,2014_flu_season_in_USA
+Idaho,44.5002,-114.25118,US,A,1416564,fuzzySWHighMatch1,idaho,2014_flu_season_in_USA
+Maine,45.50032,-69.24977,US,A,1325518,fuzzySWHighMatch1,maine,2014_flu_season_in_USA
+Montana,47.00025,-109.75102,US,A,930698,fuzzySWHighMatch1,montana,2014_flu_season_in_USA
+New Hampshire,43.66702,-71.4998,US,A,1316216,fuzzySWHighMatch1,new hampshire,2014_flu_season_in_USA
+North Carolina,35.50069,-80.00032,US,A,10488084,fuzzySWHighMatch1,north carolina,2014_flu_season_in_USA
+Rhode Island,41.75038,-71.49978,US,A,1050292,fuzzySWHighMatch1,rhode island,2014_flu_season_in_USA
+Vermont,44.00034,-72.74983,US,A,624501,fuzzySWHighMatch1,vermont,2014_flu_season_in_USA
+Virginia,37.54812,-77.44675,US,A,7642884,fuzzySWHighMatch1,virginia,2014_flu_season_in_USA
+West Virginia,38.50038,-80.50009,US,A,1817871,fuzzySWHighMatch1,west virginia,2014_flu_season_in_USA
+Alabama,32.75041,-86.75026,US,A,4530315,fuzzySWHighMatch1,alabama,2014_flu_season_in_USA
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,2014_flu_season_in_USA
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,72_hour_Australia_wide_ban_on_horse_movements
+Sydney,-33.86785,151.20732,AU,P,4627345,fuzzySWHighMatch1,sydney,72_hour_Australia_wide_ban_on_horse_movements
+New South Wales,-33.0,146.0,AU,A,8046100,fuzzySWHighMatch1,new south wales,72_hour_Australia_wide_ban_on_horse_movements
+Victoria,-37.0,145.0,AU,A,6526400,fuzzySWHighMatch1,victoria,72_hour_Australia_wide_ban_on_horse_movements
+New Zealand,-42.0,174.0,NZ,A,4885500,fuzzySWHighMatch1,new zealand,72_hour_Australia_wide_ban_on_horse_movements
+New South Wales,-33.0,146.0,AU,A,8046100,resolvedByAliace,NSW,72_hour_Australia_wide_ban_on_horse_movements
+Kenya,1.0,38.0,KE,A,51393010,fuzzySWHighMatch1,kenya,"750,000_could_be_affected_by_flooding_in_Kenya,_UN_says"
+Alberta,52.28333,-117.469,CA,A,3497881,fuzzySWHighMatch1,alberta,8th_case_of_mad_cow_disease_found_in_Canada
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,8th_case_of_mad_cow_disease_found_in_Canada
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,8th_case_of_mad_cow_disease_found_in_Canada
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,9_year_old_girl_reported_to_be_latest_US_swine_flu_death
+Buffalo,42.88645,-78.87837,US,P,258071,fuzzySWHighMatch1,buffalo,9_year_old_girl_reported_to_be_latest_US_swine_flu_death
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,9_year_old_girl_reported_to_be_latest_US_swine_flu_death
+Dar es Salaam,-6.82349,39.26951,TZ,P,2698652,fuzzySWHighMatch1,dar es salaam,African_leaders_start_drive_to_eradicate_malaria
+Tanzania,-6.0,35.0,TZ,A,56318348,fuzzySWHighMatch1,tanzania,African_leaders_start_drive_to_eradicate_malaria
+Zanzibar,-6.16394,39.19793,TZ,P,403658,fuzzySWHighMatch1,zanzibar,African_leaders_start_drive_to_eradicate_malaria
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,African_leaders_start_drive_to_eradicate_malaria
+Ames,42.03471,-93.61994,US,P,65060,fuzzySWHighMatch2,ames,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+Iowa,42.00027,-93.50049,US,A,2955010,fuzzySWHighMatch2,iowa,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+Washington,47.50012,-120.50147,US,A,6271775,fuzzySWHighMatch1,washington,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+Sweden,62.0,15.0,SE,A,10183175,fuzzySWHighMatch1,sweden,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Agriculture_Department_investigating_possible_U.S._case_of_mad_cow_disease
+Hueytown,33.45122,-86.99666,US,P,15710,fuzzySWHighMatch1,hueytown,"Alabama_postal_workers_and_customers_become_ill,_suspicious_substance_found"
+Alabama,32.75041,-86.75026,US,A,4530315,fuzzySWHighMatch1,alabama,"Alabama_postal_workers_and_customers_become_ill,_suspicious_substance_found"
+Birmingham,52.48048,-1.89823,GB,A,1124569,fuzzySWHighMatch1,birmingham,"Alabama_postal_workers_and_customers_become_ill,_suspicious_substance_found"
+Pennsylvania,40.8,-77.7,US,A,12440621,fuzzySWHighMatch1,pennsylvania,Alarm_sounded_over_US_honey_bee_die-off
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Alarm_sounded_over_US_honey_bee_die-off
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Alarm_sounded_over_US_honey_bee_die-off
+Georgia,32.75042,-83.50018,US,A,8975842,fuzzySWHighMatch1,georgia,Alarm_sounded_over_US_honey_bee_die-off
+Oklahoma,35.49209,-97.50328,US,A,3547049,fuzzySWHighMatch1,oklahoma,Alarm_sounded_over_US_honey_bee_die-off
+Wisconsin,44.50024,-90.00041,US,A,5535168,fuzzySWHighMatch1,wisconsin,Alarm_sounded_over_US_honey_bee_die-off
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,Alarm_sounded_over_US_honey_bee_die-off
+Angola,-12.5,18.5,AO,A,30809762,fuzzySWHighMatch1,angola,"Angola:_Marburg_virus_still_spreading,_180_dead"
+Zaire,-6.58717,13.51966,AO,A,567225,fuzzySWHighMatch1,zaire,"Angola:_Marburg_virus_still_spreading,_180_dead"
+Mozambique,-18.25,35.0,MZ,A,29495962,fuzzySWHighMatch1,mozambique,"Angola:_Marburg_virus_still_spreading,_180_dead"
+Luanda,-8.91667,13.33924,AO,A,6542942,fuzzySWHighMatch1,luanda,"Angola:_Marburg_virus_still_spreading,_180_dead"
+Midland,31.86917,-102.03162,US,A,169983,fuzzySWHighMatch1,midland,Anthrax_scare_closes_Michigan_newspaper_office
+Michigan,44.25029,-85.50033,US,A,9883360,fuzzySWHighMatch1,michigan,Anthrax_scare_closes_Michigan_newspaper_office
+Lansing,42.73253,-84.55553,US,P,115056,fuzzySWHighMatch1,lansing,Anthrax_scare_closes_Michigan_newspaper_office
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Usa,Anthrax_scare_closes_Michigan_newspaper_office
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,Asian_monsoon_rains_force_millions_to_flee
+Nepal,28.0,84.0,NP,A,28087871,fuzzySWHighMatch1,nepal,Asian_monsoon_rains_force_millions_to_flee
+Bangladesh,24.0,90.0,BD,A,161356039,fuzzySWHighMatch1,bangladesh,Asian_monsoon_rains_force_millions_to_flee
+Bihar,25.75,85.75,IN,A,104099452,fuzzySWHighMatch1,bihar,Asian_monsoon_rains_force_millions_to_flee
+Uttar Pradesh,27.25,80.75,IN,A,199812341,fuzzySWHighMatch1,uttar pradesh,Asian_monsoon_rains_force_millions_to_flee
+Gondra,26.6372,80.9103,IN,P,0,fuzzySWHighMatch1,gondra,Asian_monsoon_rains_force_millions_to_flee
+Indore,22.71792,75.8333,IN,P,1837041,fuzzySWHighMatch1,indore,Asian_monsoon_rains_force_millions_to_flee
+Mexico,23.0,-102.0,MX,A,126190788,fuzzySWHighMatch1,mexico,At_least_71_deaths_in_Mexico_%27likely_linked%27_to_swine_flu_outbreak
+Mexico City,19.42847,-99.12766,MX,P,12294193,fuzzySWHighMatch1,mexico city,At_least_71_deaths_in_Mexico_%27likely_linked%27_to_swine_flu_outbreak
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,At_least_71_deaths_in_Mexico_%27likely_linked%27_to_swine_flu_outbreak
+New Zealand,-42.0,174.0,NZ,A,4885500,fuzzySWHighMatch1,new zealand,At_least_71_deaths_in_Mexico_%27likely_linked%27_to_swine_flu_outbreak
+Kenya,1.0,38.0,KE,A,51393010,fuzzySWHighMatch1,kenya,At_least_nine_dead_after_cholera_outbreak_in_Kenyan_slum
+Nairobi,-1.28333,36.83333,KE,A,3138369,fuzzySWHighMatch1,nairobi,At_least_nine_dead_after_cholera_outbreak_in_Kenyan_slum
+Mukuru,6.3335,9.9605,CM,P,0,fuzzySWHighMatch1,mukuru,At_least_nine_dead_after_cholera_outbreak_in_Kenyan_slum
+Auckland,-36.85,174.78333,NZ,A,444100,fuzzySWHighMatch1,auckland,Auckland_Zoo_otter_Jin_has_been_found_alive
+Gold Coast,-28.00029,153.43088,AU,P,591473,fuzzySWHighMatch1,gold coast,Australia_appeals_for_no_execution_in_Indonesian_drug_case
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,Australia_appeals_for_no_execution_in_Indonesian_drug_case
+Bali,-8.5,115.0,ID,A,3890757,fuzzySWHighMatch2,bali,Australia_appeals_for_no_execution_in_Indonesian_drug_case
+Jakarta,-6.2182,106.8584,ID,A,9953016,fuzzySWHighMatch1,jakarta,Australia_appeals_for_no_execution_in_Indonesian_drug_case
+Indonesia,-5.0,120.0,ID,A,267663435,fuzzySWHighMatch1,indonesia,Australia_appeals_for_no_execution_in_Indonesian_drug_case
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,Australian_frog_is_rediscovered_after_17_years
+Mareeba,-16.99096,145.42306,AU,P,11339,fuzzySWHighMatch1,mareeba,Australian_frog_is_rediscovered_after_17_years
+Queensland,-20.0,145.0,AU,A,5052800,fuzzySWHighMatch1,queensland,Australian_frog_is_rediscovered_after_17_years
+Egypt,27.0,30.0,EG,A,98423595,fuzzySWHighMatch1,egypt,Avian_Flu_is_confirmed_in_Egypt
+Cairo,30.06263,31.24967,EG,P,9606916,fuzzySWHighMatch1,cairo,Avian_Flu_is_confirmed_in_Egypt
+Giza,30.00944,31.20861,EG,P,4367343,fuzzySWHighMatch2,giza,Avian_Flu_is_confirmed_in_Egypt
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Avian_flu_found_in_eastern_Canada
+Prince Edward Island,46.39808,-63.29844,CA,A,139089,fuzzySWHighMatch1,prince edward island,Avian_flu_found_in_eastern_Canada
+O'Leary,46.71685,-64.23204,CA,P,0,fuzzySWHighMatch2,o'leary,Avian_flu_found_in_eastern_Canada
+Las Vegas,36.17497,-115.13722,US,P,623747,fuzzySWHighMatch2,las vegas,B.B._King%27s_daughters_allege_blues_musician_was_poisoned
+Nevada,39.25021,-116.75119,US,A,2399532,fuzzySWHighMatch1,nevada,B.B._King%27s_daughters_allege_blues_musician_was_poisoned
+Atlanta,33.749,-84.38798,US,P,463878,fuzzySWHighMatch1,atlanta,Bacterial_meningitis_possibly_spread_on_AirTran_flight
+Georgia,32.75042,-83.50018,US,A,8975842,fuzzySWHighMatch1,georgia,Bacterial_meningitis_possibly_spread_on_AirTran_flight
+Wichita,37.69224,-97.33754,US,P,389965,fuzzySWHighMatch1,wichita,Bacterial_meningitis_possibly_spread_on_AirTran_flight
+Kansas,38.50029,-98.50063,US,A,2740759,fuzzySWHighMatch1,kansas,Bacterial_meningitis_possibly_spread_on_AirTran_flight
+Toronto,43.70011,-79.4163,CA,P,2600000,fuzzySWHighMatch1,toronto,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+Ontario,49.25014,-84.49983,CA,A,12861940,fuzzySWHighMatch1,ontario,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+Buffalo,42.88645,-78.87837,US,P,258071,fuzzySWHighMatch1,buffalo,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Bacterial_outbreak_forces_closure_of_Toronto_hospital_neo-natal_unit
+Pakistan,30.0,70.0,PK,A,212215030,fuzzySWHighMatch1,pakistan,Bad_weather_makes_life_tougher_for_quake_survivors
+Jammu and Kashmir,33.5329,75.40781,IN,A,12258433,fuzzySWHighMatch1,jammu and kashmir,Bad_weather_makes_life_tougher_for_quake_survivors
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,Bad_weather_makes_life_tougher_for_quake_survivors
+France,46.0,2.0,FR,A,66987244,fuzzySWHighMatch1,france,Bad_weather_makes_life_tougher_for_quake_survivors
+Japan,35.68536,139.75309,JP,A,126529100,fuzzySWHighMatch1,japan,Bad_weather_makes_life_tougher_for_quake_survivors
+Jordan,31.0,36.0,JO,A,9956011,fuzzySWHighMatch1,jordan,Bad_weather_makes_life_tougher_for_quake_survivors
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,Bad_weather_makes_life_tougher_for_quake_survivors
+Russia,60.0,100.0,RU,A,144478050,fuzzySWHighMatch1,russia,Bad_weather_makes_life_tougher_for_quake_survivors
+Iran,32.0,53.0,IR,A,81800269,fuzzySWHighMatch2,iran,Bad_weather_makes_life_tougher_for_quake_survivors
+Syria,35.0,38.0,SY,A,16906283,fuzzySWHighMatch1,syria,Bad_weather_makes_life_tougher_for_quake_survivors
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,Bad_weather_makes_life_tougher_for_quake_survivors
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,"Bird_Flu_confirmed_in_1,000_UK_turkeys"
+Suffolk,40.94046,-72.68524,US,A,1493350,fuzzySWHighMatch1,suffolk,"Bird_Flu_confirmed_in_1,000_UK_turkeys"
+Norfolk,52.66667,1.0,GB,A,892870,fuzzySWHighMatch1,norfolk,"Bird_Flu_confirmed_in_1,000_UK_turkeys"
+Weybridge,51.37178,-0.45975,GB,P,19463,fuzzySWHighMatch1,weybridge,"Bird_Flu_confirmed_in_1,000_UK_turkeys"
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,"Bird_Flu_confirmed_in_1,000_UK_turkeys"
+Tulungagung,-8.0657,111.9025,ID,P,65262,fuzzySWHighMatch1,tulungagung,Bird_Flu_kills_40th_Indonesian
+East Java,-7.7394,112.5099,ID,A,22200177,fuzzySWHighMatch2,east java,Bird_Flu_kills_40th_Indonesian
+Hong Kong,22.27832,114.17469,HK,P,7482500,fuzzySWHighMatch2,hong kong,Bird_Flu_kills_40th_Indonesian
+Indonesia,-5.0,120.0,ID,A,267663435,fuzzySWHighMatch1,indonesia,Bird_Flu_kills_40th_Indonesian
+Krasnodar,45.04484,38.97603,RU,P,649851,fuzzySWHighMatch1,krasnodar,Bird_flu_outbreak_kills_birds_in_Krasnodar_region
+Russia,60.0,100.0,RU,A,144478050,fuzzySWHighMatch1,russia,Bird_flu_outbreak_kills_birds_in_Krasnodar_region
+Temryuk,45.27055,37.38716,RU,P,36546,fuzzySWHighMatch1,temryuk,Bird_flu_outbreak_kills_birds_in_Krasnodar_region
+Anapa,44.89497,37.31623,RU,P,53600,fuzzySWHighMatch1,anapa,Bird_flu_outbreak_kills_birds_in_Krasnodar_region
+Jakarta,-6.2182,106.8584,ID,A,9953016,fuzzySWHighMatch1,jakarta,Bird_flu_spreading_through_Indonesia_and_China
+Indonesia,-5.0,120.0,ID,A,267663435,fuzzySWHighMatch1,indonesia,Bird_flu_spreading_through_Indonesia_and_China
+Fujian,26.25,118.0,CN,A,36890000,fuzzySWHighMatch1,fujian,Bird_flu_spreading_through_Indonesia_and_China
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,Bird_flu_spreading_through_Indonesia_and_China
+Peru,-10.0,-75.25,PE,A,31989256,fuzzySWHighMatch2,peru,Blood_recipients_contract_HIV_in_Peru
+Ipswich,-27.6779,152.66188,AU,A,183105,fuzzySWHighMatch1,ipswich,Bluetongue_disease_appears_in_UK_for_the_first_time
+Suffolk,40.94046,-72.68524,US,A,1493350,fuzzySWHighMatch1,suffolk,Bluetongue_disease_appears_in_UK_for_the_first_time
+France,46.0,2.0,FR,A,66987244,fuzzySWHighMatch1,france,Bluetongue_disease_appears_in_UK_for_the_first_time
+Germany,51.5,10.5,DE,A,82927922,fuzzySWHighMatch1,germany,Bluetongue_disease_appears_in_UK_for_the_first_time
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Bluetongue_disease_appears_in_UK_for_the_first_time
+Germany,51.5,10.5,DE,A,82927922,fuzzySWHighMatch1,germany,Bluetongue_outbreak_in_Germany
+Belgium,50.75,4.5,BE,A,11422068,fuzzySWHighMatch1,belgium,Bluetongue_outbreak_in_Germany
+France,46.0,2.0,FR,A,66987244,fuzzySWHighMatch1,france,Bluetongue_outbreak_in_Germany
+Netherlands,52.25,5.75,NL,A,17231017,fuzzySWHighMatch1,netherlands,Bluetongue_outbreak_in_Germany
+Luxembourg,49.75,6.16667,LU,A,607728,fuzzySWHighMatch1,luxembourg,Bluetongue_outbreak_in_Germany
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Bluetongue_outbreak_in_Germany
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Britain%27s_deadly_bug_possibly_imported_from_U.S._or_Canada
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Britain%27s_deadly_bug_possibly_imported_from_U.S._or_Canada
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,"Britain_unveils_flu_pandemic_preparedness_plan,_buys_14m_courses_of_treatment_drug"
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,"Britain_unveils_flu_pandemic_preparedness_plan,_buys_14m_courses_of_treatment_drug"
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,"Britain_unveils_flu_pandemic_preparedness_plan,_buys_14m_courses_of_treatment_drug"
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,"Britain_unveils_flu_pandemic_preparedness_plan,_buys_14m_courses_of_treatment_drug"
+Wales,52.5,-3.5,GB,A,3113150,fuzzySWHighMatch1,wales,British_report_says_the_U.K._is_preparing_%27mass_graves%27_for_humans_if_Bird_Flu_mutates
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,British_report_says_the_U.K._is_preparing_%27mass_graves%27_for_humans_if_Bird_Flu_mutates
+Afghanistan,33.0,66.0,AF,A,37172386,fuzzySWHighMatch1,afghanistan,British_troops_may_have_received_contaminated_blood_from_American_donors
+Iraq,33.0,44.0,IQ,A,38433600,fuzzySWHighMatch2,iraq,British_troops_may_have_received_contaminated_blood_from_American_donors
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,California_Senate_prohibits_sports_drinks_in_public_schools
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,California_company_recalls_fresh_spinach_over_salmonella_contamination
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,California_company_recalls_fresh_spinach_over_salmonella_contamination
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,California_company_recalls_fresh_spinach_over_salmonella_contamination
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+British Columbia,53.99983,-125.0032,CA,A,4413973,fuzzySWHighMatch1,british columbia,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+Fraser Valley,49.58299,-121.83587,CA,A,277000,fuzzySWHighMatch1,fraser valley,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+Vancouver,49.24966,-123.11934,CA,P,600000,fuzzySWHighMatch1,vancouver,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+Alberta,52.28333,-117.469,CA,A,3497881,fuzzySWHighMatch1,alberta,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,Canada_confirms_fifth_case_of_Mad_Cow_Disease
+Norfolk,52.66667,1.0,GB,A,892870,fuzzySWHighMatch1,norfolk,Chickens_at_a_Norfolk_farm_to_be_culled_after_testing_positive_for_bird_flu
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,Chickens_at_a_Norfolk_farm_to_be_culled_after_testing_positive_for_bird_flu
+Netherlands,52.25,5.75,NL,A,17231017,fuzzySWHighMatch1,netherlands,Chickens_at_a_Norfolk_farm_to_be_culled_after_testing_positive_for_bird_flu
+Fife,56.25,-3.16667,GB,A,370330,fuzzySWHighMatch2,fife,Chickens_at_a_Norfolk_farm_to_be_culled_after_testing_positive_for_bird_flu
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Chickens_at_a_Norfolk_farm_to_be_culled_after_testing_positive_for_bird_flu
+Philippi,39.15232,-80.04036,US,P,3256,fuzzySWHighMatch1,philippi,Child_abuse_case_in_West_Virginia_ends_in_jail_time
+West Virginia,38.50038,-80.50009,US,A,1817871,fuzzySWHighMatch1,west virginia,Child_abuse_case_in_West_Virginia_ends_in_jail_time
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Child_abuse_case_in_West_Virginia_ends_in_jail_time
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,Child_virus_outbreak_reaches_Beijing
+Beijing,39.9075,116.39723,CN,P,18960744,fuzzySWHighMatch1,beijing,Child_virus_outbreak_reaches_Beijing
+Hubei,31.0,112.25,CN,A,57110000,fuzzySWHighMatch1,hubei,Child_virus_outbreak_reaches_Beijing
+Anhui,31.91667,117.16667,CN,A,64610000,fuzzySWHighMatch1,anhui,Child_virus_outbreak_reaches_Beijing
+Fuyang,32.9,115.81667,CN,P,1768947,fuzzySWHighMatch1,fuyang,Child_virus_outbreak_reaches_Beijing
+Guangdong,23.5,113.25,CN,A,104303132,fuzzySWHighMatch1,guangdong,Child_virus_outbreak_reaches_Beijing
+Guangxi,24.0,109.0,CN,A,48160000,fuzzySWHighMatch1,guangxi,Child_virus_outbreak_reaches_Beijing
+Hainan,19.25,109.75,CN,A,8540000,fuzzySWHighMatch1,hainan,Child_virus_outbreak_reaches_Beijing
+Hunan,27.66667,111.75,CN,A,66980000,fuzzySWHighMatch1,hunan,Child_virus_outbreak_reaches_Beijing
+Zhejiang,29.16667,120.0,CN,A,51200000,fuzzySWHighMatch1,zhejiang,Child_virus_outbreak_reaches_Beijing
+Bohol,9.83333,124.16667,PH,A,1394329,fuzzySWHighMatch1,bohol,Children_poisoned_by_tainted_cassava_in_the_Philippines
+Mabini,13.73189,120.9126,PH,A,50858,fuzzySWHighMatch1,mabini,Children_poisoned_by_tainted_cassava_in_the_Philippines
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,China_and_Europe_face_new_avian_flu_outbreaks
+Russia,60.0,100.0,RU,A,144478050,fuzzySWHighMatch1,russia,China_and_Europe_face_new_avian_flu_outbreaks
+Romania,46.0,25.0,RO,A,19473936,fuzzySWHighMatch1,romania,China_and_Europe_face_new_avian_flu_outbreaks
+Hohhot,40.81056,111.65222,CN,P,2350000,fuzzySWHighMatch1,hohhot,China_and_Europe_face_new_avian_flu_outbreaks
+Inner Mongolia,43.5,114.75,CN,A,24259735,fuzzySWHighMatch1,inner mongolia,China_and_Europe_face_new_avian_flu_outbreaks
+Moscow,55.76167,37.60667,RU,A,11503501,fuzzySWHighMatch1,moscow,China_and_Europe_face_new_avian_flu_outbreaks
+Angola,-12.5,18.5,AO,A,30809762,fuzzySWHighMatch1,angola,Cholera_outbreak_hits_Angola
+Luanda,-8.91667,13.33924,AO,A,6542942,fuzzySWHighMatch1,luanda,Cholera_outbreak_hits_Angola
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+Malakoff,48.81667,2.3,FR,A,29973,fuzzySWHighMatch1,malakoff,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+Dallas,32.76663,-96.77787,US,A,2368139,fuzzySWHighMatch1,dallas,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+Abilene,32.44874,-99.73314,US,P,121721,fuzzySWHighMatch1,abilene,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+Houston,29.76328,-95.36327,US,P,2296224,fuzzySWHighMatch1,houston,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+New Jersey,40.16706,-74.49987,US,A,8751436,fuzzySWHighMatch1,new jersey,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+Lubbock,33.61021,-101.82055,US,A,310639,fuzzySWHighMatch1,lubbock,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+Austin,30.26715,-97.74306,US,P,931830,fuzzySWHighMatch1,austin,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,Cities_across_Texas_increase_efforts_to_combat_mosquitos
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,Common_cold_virus_may_be_linked_to_childhood_obesity
+Vermont,44.00034,-72.74983,US,A,624501,fuzzySWHighMatch1,vermont,Crow_found_in_Vermont_is_state%27s_first_West_Nile_case_this_year
+Brattleboro,42.85092,-72.55787,US,P,7414,fuzzySWHighMatch1,brattleboro,Crow_found_in_Vermont_is_state%27s_first_West_Nile_case_this_year
+Pangandaran,-6.1238,106.8235,ID,P,0,fuzzySWHighMatch1,pangandaran,Death_toll_in_Indonesian_tsunami_continues_to_rise
+Indonesia,-5.0,120.0,ID,A,267663435,fuzzySWHighMatch1,indonesia,Death_toll_in_Indonesian_tsunami_continues_to_rise
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,Death_toll_in_Indonesian_tsunami_continues_to_rise
+Algeria,28.0,3.0,DZ,A,42228429,fuzzySWHighMatch1,algeria,Detained_journalist_Mohamed_Tamalt_dies_in_Algeria
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,Detained_journalist_Mohamed_Tamalt_dies_in_Algeria
+London,51.50853,-0.12574,GB,P,8961989,fuzzySWHighMatch1,london,Detained_journalist_Mohamed_Tamalt_dies_in_Algeria
+Algiers,36.74053,3.00957,DZ,A,2988145,fuzzySWHighMatch1,algiers,Detained_journalist_Mohamed_Tamalt_dies_in_Algeria
+France,46.0,2.0,FR,A,66987244,fuzzySWHighMatch1,france,Detained_journalist_Mohamed_Tamalt_dies_in_Algeria
+Mumbai,19.07283,72.88261,IN,P,12691836,fuzzySWHighMatch1,mumbai,Disease_outbreak_feared_after_mass_hysteria_over_%22sweet%22_water_in_Mumbai
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,Disease_outbreak_feared_after_mass_hysteria_over_%22sweet%22_water_in_Mumbai
+Gujarat,23.0,71.75,IN,A,60439692,fuzzySWHighMatch1,gujarat,Disease_outbreak_feared_after_mass_hysteria_over_%22sweet%22_water_in_Mumbai
+Valsad,20.5,73.08333,IN,A,1705678,fuzzySWHighMatch1,valsad,Disease_outbreak_feared_after_mass_hysteria_over_%22sweet%22_water_in_Mumbai
+Warab,8.13333,28.61667,SS,P,0,fuzzySWHighMatch1,warab,"Disease_scare_in_south_Sudan,_aid_groups_return"
+Sudan,16.0,30.0,SD,A,41801533,fuzzySWHighMatch1,sudan,"Disease_scare_in_south_Sudan,_aid_groups_return"
+Al-Fashir,13.62793,25.34936,SD,P,252609,fuzzySWHighMatch2,al-fashir,"Disease_scare_in_south_Sudan,_aid_groups_return"
+Malakal,9.53342,31.66049,SS,P,160765,fuzzySWHighMatch1,malakal,"Disease_scare_in_south_Sudan,_aid_groups_return"
+Khartoum,15.8,33.0,SD,A,7152102,fuzzySWHighMatch1,khartoum,"Disease_scare_in_south_Sudan,_aid_groups_return"
+Nyala,12.04888,24.88069,SD,P,565734,fuzzySWHighMatch1,nyala,"Disease_scare_in_south_Sudan,_aid_groups_return"
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,"Drug-resistant_flu_rising,_says_WHO"
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,"Drug-resistant_flu_rising,_says_WHO"
+Norway,62.0,10.0,NO,A,5314336,fuzzySWHighMatch1,norway,"Drug-resistant_flu_rising,_says_WHO"
+Japan,35.68536,139.75309,JP,A,126529100,fuzzySWHighMatch1,japan,"Drug-resistant_flu_rising,_says_WHO"
+Hong Kong,22.27832,114.17469,HK,P,7482500,fuzzySWHighMatch2,hong kong,"Drug-resistant_flu_rising,_says_WHO"
+Virginia,37.54812,-77.44675,US,A,7642884,fuzzySWHighMatch1,virginia,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+Alaska,64.00028,-150.00028,US,A,660633,fuzzySWHighMatch1,alaska,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+Américas,9.89896,-83.67407,CR,P,0,fuzzySWHighMatch2,americas,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+Atlantic,39.46883,-74.63373,US,A,274549,fuzzySWHighMatch1,atlantic,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,Duck_hunters_asked_to_help_monitor_spread_of_Avian_Flu
+Limburg,51.25,6.0,NL,A,1091697,fuzzySWHighMatch1,limburg,Dutch_sheep_contaminated_by_bluetongue
+Netherlands,52.25,5.75,NL,A,17231017,fuzzySWHighMatch1,netherlands,Dutch_sheep_contaminated_by_bluetongue
+Wisconsin,44.50024,-90.00041,US,A,5535168,fuzzySWHighMatch1,wisconsin,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+Michigan,44.25029,-85.50033,US,A,9883360,fuzzySWHighMatch1,michigan,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+Oregon,44.00013,-120.50139,US,A,3642919,fuzzySWHighMatch1,oregon,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+New Mexico,34.50034,-106.00085,US,A,1912684,fuzzySWHighMatch1,new mexico,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+Indiana,40.00032,-86.25027,US,A,6265933,fuzzySWHighMatch1,indiana,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+Ohio,40.25034,-83.00018,US,A,11467123,fuzzySWHighMatch2,ohio,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+Idaho,44.5002,-114.25118,US,A,1416564,fuzzySWHighMatch1,idaho,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+Connecticut,41.66704,-72.66648,US,A,3527249,fuzzySWHighMatch1,connecticut,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+Kentucky,38.20042,-84.87762,US,A,4206074,fuzzySWHighMatch1,kentucky,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+Utah,39.25024,-111.75103,US,A,2427340,fuzzySWHighMatch2,utah,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+Washington,47.50012,-120.50147,US,A,6271775,fuzzySWHighMatch1,washington,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+Pennsylvania,40.8,-77.7,US,A,12440621,fuzzySWHighMatch1,pennsylvania,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+San Juan Bautista,11.01422,-63.94383,VE,P,90387,fuzzySWHighMatch1,san juan bautista,"E._coli_outbreak_kills_1,_sickens_nearly_100"
+Cuvette-Ouest,0.0,14.5,CG,A,50392,fuzzySWHighMatch1,cuvette-ouest,Ebola_outbreak_in_Congo
+Gabon,-1.0,11.75,GA,A,2119275,fuzzySWHighMatch1,gabon,Ebola_outbreak_in_Congo
+Congo,-7.79578,-36.63487,BR,A,4692,fuzzySWHighMatch1,congo,Ebola_outbreak_in_Congo
+Mbomo,1.81947,11.49054,GA,P,0,fuzzySWHighMatch1,mbomo,Ebola_outbreak_in_Congo
+Uganda,1.25,32.5,UG,A,42723139,fuzzySWHighMatch1,uganda,Ebola_outbreak_in_Congo
+Zaire,-6.58717,13.51966,AO,A,567225,fuzzySWHighMatch1,zaire,Ebola_outbreak_in_Congo
+Afghanistan,33.0,66.0,AF,A,37172386,fuzzySWHighMatch1,afghanistan,Effort_on_to_eradicate_Polio_from_Asia_in_2005
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,Effort_on_to_eradicate_Polio_from_Asia_in_2005
+Pakistan,30.0,70.0,PK,A,212215030,fuzzySWHighMatch1,pakistan,Effort_on_to_eradicate_Polio_from_Asia_in_2005
+Egypt,27.0,30.0,EG,A,98423595,fuzzySWHighMatch1,egypt,Egyptian_woman_becomes_third_to_die_of_bird_flu_in_a_week
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,Eight_Californians_seriously_ill_after_eating_live_shellfish
+Mission Viejo,33.60002,-117.672,US,P,97156,fuzzySWHighMatch1,mission viejo,Eight_Californians_seriously_ill_after_eating_live_shellfish
+Fullerton,33.87029,-117.92534,US,P,140847,fuzzySWHighMatch1,fullerton,Eight_Californians_seriously_ill_after_eating_live_shellfish
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+Tustin,33.74585,-117.82617,US,P,80583,fuzzySWHighMatch1,tustin,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+Glendale,33.53865,-112.18599,US,P,240126,fuzzySWHighMatch1,glendale,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+Hollywood,34.09834,-118.32674,US,P,167664,fuzzySWHighMatch1,hollywood,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+Los Angeles,34.19801,-118.26102,US,A,9818605,fuzzySWHighMatch1,los angeles,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+Santa Monica,34.01949,-118.49138,US,P,93220,fuzzySWHighMatch1,santa monica,"Envelopes_containing_white_powder_sent_to_Church_of_Scientology_locations_in_southern_California,_USA"
+Eritrea,15.0,39.0,ER,A,0,fuzzySWHighMatch1,eritrea,"Eritrea_plans_to_vaccinate_500,000_children"
+Ethiopia,9.0,39.5,ET,A,109224559,fuzzySWHighMatch1,ethiopia,"Eritrea_plans_to_vaccinate_500,000_children"
+Sudan,16.0,30.0,SD,A,41801533,fuzzySWHighMatch1,sudan,"Eritrea_plans_to_vaccinate_500,000_children"
+Greece,39.0,22.0,GR,A,10727668,fuzzySWHighMatch1,greece,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Bulgaria,42.66667,25.25,BG,A,7000039,fuzzySWHighMatch1,bulgaria,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Italy,42.83333,12.83333,IT,A,60431283,fuzzySWHighMatch1,italy,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Austria,47.33333,13.33333,AT,A,8847037,fuzzySWHighMatch1,austria,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Germany,51.5,10.5,DE,A,82927922,fuzzySWHighMatch1,germany,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Slovenia,46.08333,15.0,SI,A,2067372,fuzzySWHighMatch1,slovenia,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Croatia,45.16667,15.5,HR,A,4089400,fuzzySWHighMatch1,croatia,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Denmark,56.0,10.0,DK,A,5797446,fuzzySWHighMatch1,denmark,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Russia,60.0,100.0,RU,A,144478050,fuzzySWHighMatch1,russia,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Ukraine,49.0,32.0,UA,A,44622516,fuzzySWHighMatch1,ukraine,Europe_restricts_poultry_as_bird_flu_spreads_to_eight_European_nations
+Hamburg,53.58333,10.0,DE,A,1774224,fuzzySWHighMatch1,hamburg,Exploding_toads_confuse_scientists
+Germany,51.5,10.5,DE,A,82927922,fuzzySWHighMatch1,germany,Exploding_toads_confuse_scientists
+Denmark,56.0,10.0,DK,A,5797446,fuzzySWHighMatch1,denmark,Exploding_toads_confuse_scientists
+South Africa,-29.0,24.0,ZA,A,57779622,fuzzySWHighMatch1,south africa,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+KwaZulu-Natal,-29.0,30.0,ZA,A,10154469,fuzzySWHighMatch2,kwazulu-natal,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+Johannesburg,-26.20227,28.04363,ZA,P,2026469,fuzzySWHighMatch1,johannesburg,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+Mozambique,-18.25,35.0,MZ,A,29495962,fuzzySWHighMatch1,mozambique,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+Botswana,-22.0,24.0,BW,A,2254126,fuzzySWHighMatch1,botswana,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Extremely_drug-resistant_tuberculosis_strain_emerges_in_South_Africa
+Little Rock,34.74648,-92.28959,US,P,197992,fuzzySWHighMatch1,little rock,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+Arkansas,34.75037,-92.50044,US,A,2757631,fuzzySWHighMatch1,arkansas,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+Spain,40.0,-4.0,ES,A,46723749,fuzzySWHighMatch1,spain,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+Italy,42.83333,12.83333,IT,A,60431283,fuzzySWHighMatch1,italy,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+Israel,31.5,34.75,IL,A,8883800,fuzzySWHighMatch1,israel,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,FDA_recalls_foreign_meat_used_in_aid_for_victims_of_Hurricane_Katrina
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Honduras,15.0,-86.5,HN,A,9587522,fuzzySWHighMatch1,honduras,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Arizona,34.5003,-111.50098,US,A,5863809,fuzzySWHighMatch1,arizona,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Colorado,39.00027,-105.50083,US,A,4678630,fuzzySWHighMatch1,colorado,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Georgia,32.75042,-83.50018,US,A,8975842,fuzzySWHighMatch1,georgia,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Illinois,40.00032,-89.25037,US,A,12772888,fuzzySWHighMatch1,illinois,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Missouri,38.25031,-92.50046,US,A,5768151,fuzzySWHighMatch1,missouri,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+New Jersey,40.16706,-74.49987,US,A,8751436,fuzzySWHighMatch1,new jersey,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+New Mexico,34.50034,-106.00085,US,A,1912684,fuzzySWHighMatch1,new mexico,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Ohio,40.25034,-83.00018,US,A,11467123,fuzzySWHighMatch2,ohio,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Oklahoma,35.49209,-97.50328,US,A,3547049,fuzzySWHighMatch1,oklahoma,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Oregon,44.00013,-120.50139,US,A,3642919,fuzzySWHighMatch1,oregon,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Tennessee,35.75035,-86.25027,US,A,5935099,fuzzySWHighMatch1,tennessee,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Utah,39.25024,-111.75103,US,A,2427340,fuzzySWHighMatch2,utah,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Washington,47.50012,-120.50147,US,A,6271775,fuzzySWHighMatch1,washington,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Wisconsin,44.50024,-90.00041,US,A,5535168,fuzzySWHighMatch1,wisconsin,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+British Columbia,53.99983,-125.0032,CA,A,4413973,fuzzySWHighMatch1,british columbia,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Alberta,52.28333,-117.469,CA,A,3497881,fuzzySWHighMatch1,alberta,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Manitoba,55.00019,-97.00049,CA,A,1193566,fuzzySWHighMatch1,manitoba,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+Ontario,49.25014,-84.49983,CA,A,12861940,fuzzySWHighMatch1,ontario,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+New Brunswick,46.5001,-65.99878,CA,A,751250,fuzzySWHighMatch1,new brunswick,FDA_warning_on_Honduran_cantaloupes_after_salmonella_outbreaks
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,FDA_warning_on_pistachios_after_salmonella_contamination
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,FDA_warning_on_pistachios_after_salmonella_contamination
+Alaska,64.00028,-150.00028,US,A,660633,fuzzySWHighMatch1,alaska,FDA_warning_on_pistachios_after_salmonella_contamination
+Alabama,32.75041,-86.75026,US,A,4530315,fuzzySWHighMatch1,alabama,FDA_warning_on_pistachios_after_salmonella_contamination
+Arizona,34.5003,-111.50098,US,A,5863809,fuzzySWHighMatch1,arizona,FDA_warning_on_pistachios_after_salmonella_contamination
+Arkansas,34.75037,-92.50044,US,A,2757631,fuzzySWHighMatch1,arkansas,FDA_warning_on_pistachios_after_salmonella_contamination
+Colorado,39.00027,-105.50083,US,A,4678630,fuzzySWHighMatch1,colorado,FDA_warning_on_pistachios_after_salmonella_contamination
+Georgia,32.75042,-83.50018,US,A,8975842,fuzzySWHighMatch1,georgia,FDA_warning_on_pistachios_after_salmonella_contamination
+Idaho,44.5002,-114.25118,US,A,1416564,fuzzySWHighMatch1,idaho,FDA_warning_on_pistachios_after_salmonella_contamination
+Illinois,40.00032,-89.25037,US,A,12772888,fuzzySWHighMatch1,illinois,FDA_warning_on_pistachios_after_salmonella_contamination
+Indiana,40.00032,-86.25027,US,A,6265933,fuzzySWHighMatch1,indiana,FDA_warning_on_pistachios_after_salmonella_contamination
+Kansas,38.50029,-98.50063,US,A,2740759,fuzzySWHighMatch1,kansas,FDA_warning_on_pistachios_after_salmonella_contamination
+Kentucky,38.20042,-84.87762,US,A,4206074,fuzzySWHighMatch1,kentucky,FDA_warning_on_pistachios_after_salmonella_contamination
+Louisiana,31.00047,-92.0004,US,A,4515939,fuzzySWHighMatch1,louisiana,FDA_warning_on_pistachios_after_salmonella_contamination
+Michigan,44.25029,-85.50033,US,A,9883360,fuzzySWHighMatch1,michigan,FDA_warning_on_pistachios_after_salmonella_contamination
+Missouri,38.25031,-92.50046,US,A,5768151,fuzzySWHighMatch1,missouri,FDA_warning_on_pistachios_after_salmonella_contamination
+Mississippi,32.75041,-89.75036,US,A,2901371,fuzzySWHighMatch1,mississippi,FDA_warning_on_pistachios_after_salmonella_contamination
+Montana,47.00025,-109.75102,US,A,930698,fuzzySWHighMatch1,montana,FDA_warning_on_pistachios_after_salmonella_contamination
+Nebraska,41.50028,-99.75067,US,A,1757399,fuzzySWHighMatch1,nebraska,FDA_warning_on_pistachios_after_salmonella_contamination
+Nevada,39.25021,-116.75119,US,A,2399532,fuzzySWHighMatch1,nevada,FDA_warning_on_pistachios_after_salmonella_contamination
+New Mexico,34.50034,-106.00085,US,A,1912684,fuzzySWHighMatch1,new mexico,FDA_warning_on_pistachios_after_salmonella_contamination
+North Carolina,35.50069,-80.00032,US,A,10488084,fuzzySWHighMatch1,north carolina,FDA_warning_on_pistachios_after_salmonella_contamination
+Ohio,40.25034,-83.00018,US,A,11467123,fuzzySWHighMatch2,ohio,FDA_warning_on_pistachios_after_salmonella_contamination
+Oregon,44.00013,-120.50139,US,A,3642919,fuzzySWHighMatch1,oregon,FDA_warning_on_pistachios_after_salmonella_contamination
+South Carolina,34.00043,-81.00009,US,A,4229842,fuzzySWHighMatch1,south carolina,FDA_warning_on_pistachios_after_salmonella_contamination
+Tennessee,35.75035,-86.25027,US,A,5935099,fuzzySWHighMatch1,tennessee,FDA_warning_on_pistachios_after_salmonella_contamination
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,FDA_warning_on_pistachios_after_salmonella_contamination
+Utah,39.25024,-111.75103,US,A,2427340,fuzzySWHighMatch2,utah,FDA_warning_on_pistachios_after_salmonella_contamination
+Virginia,37.54812,-77.44675,US,A,7642884,fuzzySWHighMatch1,virginia,FDA_warning_on_pistachios_after_salmonella_contamination
+Washington,47.50012,-120.50147,US,A,6271775,fuzzySWHighMatch1,washington,FDA_warning_on_pistachios_after_salmonella_contamination
+West Virginia,38.50038,-80.50009,US,A,1817871,fuzzySWHighMatch1,west virginia,FDA_warning_on_pistachios_after_salmonella_contamination
+Wyoming,43.00024,-107.5009,US,A,505907,fuzzySWHighMatch1,wyoming,FDA_warning_on_pistachios_after_salmonella_contamination
+Singapore,1.28967,103.85007,SG,P,5638700,fuzzySWHighMatch1,singapore,Fake_impotence_drugs_linked_to_low_blood_sugar_outbreak
+Hong Kong,22.27832,114.17469,HK,P,7482500,fuzzySWHighMatch2,hong kong,Fake_impotence_drugs_linked_to_low_blood_sugar_outbreak
+Iraq,33.0,44.0,IQ,A,38433600,fuzzySWHighMatch2,iraq,First_Iraqi_case_of_Avian_Flu_reported
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,First_Iraqi_case_of_Avian_Flu_reported
+Cairo,30.06263,31.24967,EG,P,9606916,fuzzySWHighMatch1,cairo,First_Iraqi_case_of_Avian_Flu_reported
+Turkey,39.0,35.0,TR,A,82319724,fuzzySWHighMatch1,turkey,First_Iraqi_case_of_Avian_Flu_reported
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,First_Iraqi_case_of_Avian_Flu_reported
+North Korea,40.0,127.0,KP,A,25549819,fuzzySWHighMatch1,north korea,First_bird_flu_case_reported_in_North_Korea
+Pyongyang,39.03385,125.75432,KP,P,3222000,fuzzySWHighMatch1,pyongyang,First_bird_flu_case_reported_in_North_Korea
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,"First_bird_flu_cases_registered_In_Maharashtra,_India"
+Maharashtra,19.5,76.0,IN,A,112374333,fuzzySWHighMatch1,maharashtra,"First_bird_flu_cases_registered_In_Maharashtra,_India"
+Mumbai,19.07283,72.88261,IN,P,12691836,fuzzySWHighMatch1,mumbai,"First_bird_flu_cases_registered_In_Maharashtra,_India"
+Nandurbar,21.37,74.2,IN,A,1648295,fuzzySWHighMatch1,nandurbar,"First_bird_flu_cases_registered_In_Maharashtra,_India"
+Dhule,20.9013,74.77737,IN,P,366980,fuzzySWHighMatch1,dhule,"First_bird_flu_cases_registered_In_Maharashtra,_India"
+Mashonaland West,-17.16667,29.75,ZW,A,1270629,fuzzySWHighMatch1,mashonaland west,Five_cholera_deaths_recorded_in_Zimbabwe_amid_fears_of_new_epidemic
+Midlands,-20.31907,57.57016,MU,P,4546,fuzzySWHighMatch1,midlands,Five_cholera_deaths_recorded_in_Zimbabwe_amid_fears_of_new_epidemic
+Manicaland,-19.0,32.41667,ZW,A,1590136,fuzzySWHighMatch1,manicaland,Five_cholera_deaths_recorded_in_Zimbabwe_amid_fears_of_new_epidemic
+Masvingo,-20.06373,30.82766,ZW,P,76290,fuzzySWHighMatch1,masvingo,Five_cholera_deaths_recorded_in_Zimbabwe_amid_fears_of_new_epidemic
+Zimbabwe,-19.0,29.75,ZW,A,14439018,fuzzySWHighMatch1,zimbabwe,Five_cholera_deaths_recorded_in_Zimbabwe_amid_fears_of_new_epidemic
+Surrey,51.25,-0.33333,GB,A,1176549,fuzzySWHighMatch1,surrey,Foot-and-mouth_confirmed_at_UK_farm
+Wanborough,51.54263,-1.69837,GB,P,2268,fuzzySWHighMatch1,wanborough,Foot-and-mouth_confirmed_at_UK_farm
+Dorset,50.75,-2.33333,GB,A,422727,fuzzySWHighMatch1,dorset,Foot-and-mouth_confirmed_at_UK_farm
+London,51.50853,-0.12574,GB,P,8961989,fuzzySWHighMatch1,london,Foot-and-mouth_confirmed_at_UK_farm
+Italy,42.83333,12.83333,IT,A,60431283,fuzzySWHighMatch1,italy,Foot-and-mouth_confirmed_at_UK_farm
+France,46.0,2.0,FR,A,66987244,fuzzySWHighMatch1,france,Foot-and-mouth_confirmed_at_UK_farm
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Foot-and-mouth_confirmed_at_UK_farm
+Guildford,51.23536,-0.57427,GB,P,71873,fuzzySWHighMatch1,guildford,Foot-and-mouth_source_confirmed_as_research_laboratory
+Surrey,51.25,-0.33333,GB,A,1176549,fuzzySWHighMatch1,surrey,Foot-and-mouth_source_confirmed_as_research_laboratory
+Pirbright,51.29137,-0.64721,GB,P,3691,fuzzySWHighMatch1,pirbright,Foot-and-mouth_source_confirmed_as_research_laboratory
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Foot-and-mouth_source_confirmed_as_research_laboratory
+New Zealand,-42.0,174.0,NZ,A,4885500,fuzzySWHighMatch1,new zealand,Foot_and_mouth_scare_in_New_Zealand_likely_to_be_hoax
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,Foot_and_mouth_scare_in_New_Zealand_likely_to_be_hoax
+Chechnya,43.25,45.83333,RU,A,1210000,fuzzySWHighMatch1,chechnya,"Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected"
+Moscow,55.76167,37.60667,RU,A,11503501,fuzzySWHighMatch1,moscow,"Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected"
+London,51.50853,-0.12574,GB,P,8961989,fuzzySWHighMatch1,london,"Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected"
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,"Former_Russian_spy_Litvinenko_dies,_radioactive_poisoning_suspected"
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,"Four_people_die_after_contracting_H1N1_swine_flu_virus_in_West_Midlands,_England"
+Panama,9.0,-80.0,PA,A,4176873,fuzzySWHighMatch1,panama,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+Tortí,8.92151,-78.39845,PA,P,1611,fuzzySWHighMatch1,tortí,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+Américas,9.89896,-83.67407,CR,P,0,fuzzySWHighMatch2,americas,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,Frog-killing_fungus_spreads_across_Panama_Canal_towards_South_America
+Gaza Strip,31.41667,34.33333,PS,A,487904,fuzzySWHighMatch1,gaza strip,Gaza_Strip_reports_first_swine_flu_cases
+Israel,31.5,34.75,IL,A,8883800,fuzzySWHighMatch1,israel,Gaza_Strip_reports_first_swine_flu_cases
+Gaza,31.51065,34.46411,PS,A,505700,fuzzySWHighMatch2,gaza,Gaza_Strip_reports_first_swine_flu_cases
+Egypt,27.0,30.0,EG,A,98423595,fuzzySWHighMatch1,egypt,Gaza_Strip_reports_first_swine_flu_cases
+West Bank,31.66667,35.25,PS,A,2771681,fuzzySWHighMatch2,west bank,Gaza_Strip_reports_first_swine_flu_cases
+Rotterdam,51.88246,4.28784,NL,A,638712,fuzzySWHighMatch1,rotterdam,H5N1_bird_flu_confirmed_in_the_Netherlands
+Lelystad,52.50833,5.475,NL,P,70741,fuzzySWHighMatch1,lelystad,H5N1_bird_flu_confirmed_in_the_Netherlands
+Netherlands,52.25,5.75,NL,A,17231017,fuzzySWHighMatch1,netherlands,H5N1_bird_flu_confirmed_in_the_Netherlands
+Poland,52.0,20.0,PL,A,37978548,fuzzySWHighMatch1,poland,H5N1_bird_flu_virus_reaches_Poland
+Toruń,53.0144,18.6014,PL,A,202562,fuzzySWHighMatch1,toruń,H5N1_bird_flu_virus_reaches_Poland
+Weybridge,51.37178,-0.45975,GB,P,19463,fuzzySWHighMatch1,weybridge,H5N1_bird_flu_virus_reaches_Poland
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,H5N1_bird_flu_virus_reaches_Poland
+Lyon,45.74846,4.84671,FR,P,472317,fuzzySWHighMatch2,lyon,H5N1_confirmed_in_France
+France,46.0,2.0,FR,A,66987244,fuzzySWHighMatch1,france,H5N1_confirmed_in_France
+Austria,47.33333,13.33333,AT,A,8847037,fuzzySWHighMatch1,austria,H5N1_confirmed_in_France
+Germany,51.5,10.5,DE,A,82927922,fuzzySWHighMatch1,germany,H5N1_confirmed_in_France
+Slovenia,46.08333,15.0,SI,A,2067372,fuzzySWHighMatch1,slovenia,H5N1_confirmed_in_France
+Greece,39.0,22.0,GR,A,10727668,fuzzySWHighMatch1,greece,H5N1_confirmed_in_France
+Italy,42.83333,12.83333,IT,A,60431283,fuzzySWHighMatch1,italy,H5N1_confirmed_in_France
+Croatia,45.16667,15.5,HR,A,4089400,fuzzySWHighMatch1,croatia,H5N1_confirmed_in_France
+Denmark,56.0,10.0,DK,A,5797446,fuzzySWHighMatch1,denmark,H5N1_confirmed_in_France
+Somme,49.93141,2.27639,FR,A,582469,fuzzySWHighMatch1,somme,H5N1_confirmed_in_France
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,H5N1_strain_of_Avian_Flu_found_in_the_UK
+Suffolk,40.94046,-72.68524,US,A,1493350,fuzzySWHighMatch1,suffolk,H5N1_strain_of_Avian_Flu_found_in_the_UK
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,H5N1_strain_of_Avian_Flu_found_in_the_UK
+Fife,56.25,-3.16667,GB,A,370330,fuzzySWHighMatch2,fife,H5N1_strain_of_Avian_Flu_found_in_the_UK
+Scotland,56.0,-4.0,GB,A,5404700,fuzzySWHighMatch1,scotland,H5N1_strain_of_Avian_Flu_found_in_the_UK
+Dallas,32.76663,-96.77787,US,A,2368139,fuzzySWHighMatch1,dallas,HIV-positive_man_receives_35_years_for_spitting_on_Dallas_police_officer
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,HIV-positive_man_receives_35_years_for_spitting_on_Dallas_police_officer
+Angola,-12.5,18.5,AO,A,30809762,fuzzySWHighMatch1,angola,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+Luanda,-8.91667,13.33924,AO,A,6542942,fuzzySWHighMatch1,luanda,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+London,51.50853,-0.12574,GB,P,8961989,fuzzySWHighMatch1,london,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+Munich,48.13743,11.57549,DE,P,1260391,fuzzySWHighMatch1,munich,Health_experts_suspect_bromide_poisoning_in_Angolan_disease_outbreak
+Kananga,-5.89624,22.41659,CD,P,463546,fuzzySWHighMatch1,kananga,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+Rwanda,-2.0,30.0,RW,A,12301939,fuzzySWHighMatch1,rwanda,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+Zambia,-14.33333,28.5,ZM,A,17351822,fuzzySWHighMatch1,zambia,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+DR Congo,-2.5,23.5,CD,A,84068091,resolvedByAliace,DRC,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+Kampungu,-9.5756,25.08159,CD,P,0,HighPopInEquality,kampungu,Health_organisations_respond_to_Ebola_outbreak_in_Democratic_Republic_of_the_Congo
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,"Healthcare_workers,_public_officials_struggle_to_address_influenza_outbreak_across_much_of_U.S."
+Boston,42.35843,-71.05977,US,P,675647,fuzzySWHighMatch1,boston,"Healthcare_workers,_public_officials_struggle_to_address_influenza_outbreak_across_much_of_U.S."
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,"Healthcare_workers,_public_officials_struggle_to_address_influenza_outbreak_across_much_of_U.S."
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,"Healthcare_workers,_public_officials_struggle_to_address_influenza_outbreak_across_much_of_U.S."
+Greenlane,-36.89055,174.79426,NZ,P,0,fuzzySWHighMatch1,greenlane,Hepatitis_scare_at_New_Zealand_McDonald%27s_restaurant
+Auckland,-36.85,174.78333,NZ,A,444100,fuzzySWHighMatch1,auckland,Hepatitis_scare_at_New_Zealand_McDonald%27s_restaurant
+New Zealand,-42.0,174.0,NZ,A,4885500,fuzzySWHighMatch1,new zealand,Hepatitis_scare_at_New_Zealand_McDonald%27s_restaurant
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,"Highly_contagious_Hand,_foot_and_mouth_disease_killing_China%27s_children"
+Shandong,36.33333,118.25,CN,A,94170000,fuzzySWHighMatch1,shandong,"Highly_contagious_Hand,_foot_and_mouth_disease_killing_China%27s_children"
+Kita-Akita,40.19956,140.39388,JP,P,0,fuzzySWHighMatch2,kitaakita,Hong_Kong_flu_kills_six_in_Japan
+Japan,35.68536,139.75309,JP,A,126529100,fuzzySWHighMatch1,japan,Hong_Kong_flu_kills_six_in_Japan
+Randwick,-33.91667,151.25,AU,A,142310,fuzzySWHighMatch1,randwick,Horse_flu_infects_Australian_thoroughbreds
+Sydney,-33.86785,151.20732,AU,P,4627345,fuzzySWHighMatch1,sydney,Horse_flu_infects_Australian_thoroughbreds
+Queensland,-20.0,145.0,AU,A,5052800,fuzzySWHighMatch1,queensland,Horse_flu_infects_Australian_thoroughbreds
+Melbourne,-37.814,144.96332,AU,P,4246375,fuzzySWHighMatch1,melbourne,Horse_flu_infects_Australian_thoroughbreds
+New South Wales,-33.0,146.0,AU,A,8046100,resolvedByAliace,NSW,Horse_flu_infects_Australian_thoroughbreds
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,Horse_flu_spreads_in_Australia
+New South Wales,-33.0,146.0,AU,A,8046100,fuzzySWHighMatch1,new south wales,Horse_flu_spreads_in_Australia
+Sydney,-33.86785,151.20732,AU,P,4627345,fuzzySWHighMatch1,sydney,Horse_flu_spreads_in_Australia
+Parkes,-32.82318,148.02514,AU,A,15087,fuzzySWHighMatch1,parkes,Horse_flu_spreads_in_Australia
+Berry,-34.77507,150.69436,AU,P,2648,fuzzySWHighMatch1,berry,Horse_flu_spreads_in_Australia
+Wyong,-33.28254,151.42327,AU,P,4309,fuzzySWHighMatch1,wyong,Horse_flu_spreads_in_Australia
+Warwick,41.7001,-71.41617,US,P,81699,fuzzySWHighMatch1,warwick,Horse_flu_spreads_in_Australia
+Queensland,-20.0,145.0,AU,A,5052800,fuzzySWHighMatch1,queensland,Horse_flu_spreads_in_Australia
+Brisbane,-27.46794,153.02809,AU,P,2189878,fuzzySWHighMatch1,brisbane,Horse_flu_spreads_in_Australia
+Victoria,-37.0,145.0,AU,A,6526400,fuzzySWHighMatch1,victoria,Horse_flu_spreads_in_Australia
+Maitland,-32.73308,151.5574,AU,P,67132,fuzzySWHighMatch1,maitland,Horse_flu_spreads_in_Australia
+New South Wales,-33.0,146.0,AU,A,8046100,resolvedByAliace,NSW,Horse_flu_spreads_in_Australia
+Cattai,-33.54569,150.91432,AU,P,822,HighPop,cattai,Horse_flu_spreads_in_Australia
+New South Wales,-33.0,146.0,AU,A,8046100,fuzzySWHighMatch1,new south wales,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+Queensland,-20.0,145.0,AU,A,5052800,fuzzySWHighMatch1,queensland,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+Sydney,-33.86785,151.20732,AU,P,4627345,fuzzySWHighMatch1,sydney,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+Melbourne,-37.814,144.96332,AU,P,4246375,fuzzySWHighMatch1,melbourne,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+Victoria,-37.0,145.0,AU,A,6526400,fuzzySWHighMatch1,victoria,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+New South Wales,-33.0,146.0,AU,A,8046100,resolvedByAliace,NSW,"Horse_racing_in_NSW,_Queensland_cancelled_indefinitely"
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,India_struggles_with_encephalitis_outbreak
+Uttar Pradesh,27.25,80.75,IN,A,199812341,fuzzySWHighMatch1,uttar pradesh,India_struggles_with_encephalitis_outbreak
+Nepal,28.0,84.0,NP,A,28087871,fuzzySWHighMatch1,nepal,India_struggles_with_encephalitis_outbreak
+Indiana,40.00032,-86.25027,US,A,6265933,fuzzySWHighMatch1,indiana,Indiana_Governor_signs_needle_exchange_program
+Austin,30.26715,-97.74306,US,P,931830,fuzzySWHighMatch1,austin,Indiana_Governor_signs_needle_exchange_program
+Evansville,37.97476,-87.55585,US,P,119943,fuzzySWHighMatch1,evansville,Indiana_Governor_signs_needle_exchange_program
+Louisville,38.25424,-85.75941,US,P,243639,fuzzySWHighMatch1,louisville,Indiana_Governor_signs_needle_exchange_program
+Kentucky,38.20042,-84.87762,US,A,4206074,fuzzySWHighMatch1,kentucky,Indiana_Governor_signs_needle_exchange_program
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Indiana_Governor_signs_needle_exchange_program
+Nashville,36.16589,-86.78444,US,P,689447,fuzzySWHighMatch1,nashville,Indiana_Governor_signs_needle_exchange_program
+Tennessee,35.75035,-86.25027,US,A,5935099,fuzzySWHighMatch1,tennessee,Indiana_Governor_signs_needle_exchange_program
+Karo,-18.0,19.31667,,P,0,fuzzySWHighMatch2,karo,Indonesian_Health_Ministry:_Two_new_human_clusters_of_Bird_Flu_suspected_in_Sumatra
+Medan,3.58333,98.66667,ID,P,1750971,fuzzySWHighMatch1,medan,Indonesian_Health_Ministry:_Two_new_human_clusters_of_Bird_Flu_suspected_in_Sumatra
+Garut,-7.5007,112.6367,ID,P,0,fuzzySWHighMatch1,garut,Indonesian_health_officials_investigating_possible_human_to_human_transmission_of_H5N1_Bird_Flu_virus
+West Java,-6.75,107.5,ID,A,45278744,fuzzySWHighMatch2,west java,Indonesian_health_officials_investigating_possible_human_to_human_transmission_of_H5N1_Bird_Flu_virus
+Indonesia,-5.0,120.0,ID,A,267663435,fuzzySWHighMatch1,indonesia,Indonesian_health_officials_investigating_possible_human_to_human_transmission_of_H5N1_Bird_Flu_virus
+Sukoharjo,-7.56028,110.57194,ID,P,0,fuzzySWHighMatch1,sukoharjo,Indonesian_suspected_bird_flu_case_dies
+Central Java,-7.5,110.0,ID,A,34087148,fuzzySWHighMatch1,central java,Indonesian_suspected_bird_flu_case_dies
+Indonesia,-5.0,120.0,ID,A,267663435,fuzzySWHighMatch1,indonesia,Indonesian_suspected_bird_flu_case_dies
+West Java,-6.75,107.5,ID,A,45278744,fuzzySWHighMatch2,west java,Indonesian_suspected_bird_flu_case_dies
+Yogyakarta,-7.8008,110.34393,ID,A,3665448,fuzzySWHighMatch1,yogyakarta,Indonesian_suspected_bird_flu_case_dies
+Vietnam,16.16667,107.83333,VN,A,95540395,fuzzySWHighMatch1,vietnam,Indonesian_suspected_bird_flu_case_dies
+Philippines,13.40882,122.56155,PH,A,106651922,fuzzySWHighMatch1,philippines,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Manila,14.6042,120.9822,PH,P,1600000,fuzzySWHighMatch1,manila,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Pandi,14.87462,120.96683,PH,A,89075,fuzzySWHighMatch1,pandi,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Bulacan,14.79278,120.87889,PH,P,71274,fuzzySWHighMatch1,bulacan,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Talavera,15.61667,120.93333,PH,A,124829,fuzzySWHighMatch1,talavera,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Manaoag,16.03333,120.48333,PH,A,69497,fuzzySWHighMatch1,manaoag,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Reston,38.96872,-77.3411,US,P,58404,fuzzySWHighMatch1,reston,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Virginia,37.54812,-77.44675,US,A,7642884,fuzzySWHighMatch1,virginia,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Italy,42.83333,12.83333,IT,A,60431283,fuzzySWHighMatch1,italy,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Rome,41.96667,12.66667,IT,A,4342212,fuzzySWHighMatch2,rome,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Laguna,-28.47071,-48.83834,BR,A,46122,fuzzySWHighMatch1,laguna,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Singapore,1.28967,103.85007,SG,P,5638700,fuzzySWHighMatch1,singapore,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Santa Maria,-29.77424,-53.82759,BR,A,261027,fuzzySWHighMatch1,santa maria,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+Pongpong,16.58333,120.48333,PH,P,0,fuzzySWHighMatch1,pongpong,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+New York,43.00035,-75.4999,US,A,19274244,resolvedByAliace,Ny,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+DR Congo,-2.5,23.5,CD,A,84068091,resolvedByAliace,DRC,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,International_experts_probe_deadly_Ebola_Reston_virus_outbreak_in_Philippine_pigs
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Pailin,12.86667,102.6,KH,A,70482,fuzzySWHighMatch1,pailin,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Cambodia,13.0,105.0,KH,A,16249798,fuzzySWHighMatch1,cambodia,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Attapeu,14.81071,106.83184,LA,P,4297,fuzzySWHighMatch1,attapeu,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Laos,18.0,105.0,LA,A,7061507,fuzzySWHighMatch2,laos,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Vietnam,16.16667,107.83333,VN,A,95540395,fuzzySWHighMatch1,vietnam,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Myanmar,21.0,96.0,MM,A,53708395,fuzzySWHighMatch1,myanmar,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Pingilikani,-3.7742,39.77375,KE,P,0,fuzzySWHighMatch1,pingilikani,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Kenya,1.0,38.0,KE,A,51393010,fuzzySWHighMatch1,kenya,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Kinshasa,-4.32758,15.31357,CD,P,7785965,fuzzySWHighMatch1,kinshasa,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+DR Congo,-2.5,23.5,CD,A,84068091,fuzzySWHighMatch2,dr congo,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,International_team_of_scientists_studies_malaria_drug_resistance_in_Southeast_Asia
+Atlanta,33.749,-84.38798,US,P,463878,fuzzySWHighMatch1,atlanta,James_Brown_dies_of_pneumonia
+New Jersey,40.16706,-74.49987,US,A,8751436,fuzzySWHighMatch1,new jersey,James_Brown_dies_of_pneumonia
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,James_Brown_dies_of_pneumonia
+New Orleans,29.95465,-90.07507,US,P,389617,fuzzySWHighMatch1,new orleans,Katrina_survivor_searchers_prepare_for_the_worst
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,Katrina_survivor_searchers_prepare_for_the_worst
+Kenya,1.0,38.0,KE,A,51393010,fuzzySWHighMatch1,kenya,Kenya_confirms_first_swine_flu_case
+Nyanza,-2.36516,29.74942,RW,A,0,fuzzySWHighMatch1,nyanza,Kenya_confirms_first_swine_flu_case
+Kisumu,-0.069,34.64,KE,A,968909,fuzzySWHighMatch1,kisumu,Kenya_confirms_first_swine_flu_case
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,Kenya_confirms_first_swine_flu_case
+Nairobi,-1.28333,36.83333,KE,A,3138369,fuzzySWHighMatch1,nairobi,Kenya_confirms_first_swine_flu_case
+London,51.50853,-0.12574,GB,P,8961989,fuzzySWHighMatch1,london,Kenya_confirms_first_swine_flu_case
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,Kenya_confirms_first_swine_flu_case
+Kenya,1.0,38.0,KE,A,51393010,fuzzySWHighMatch1,kenya,Kenyan_cattle_rustlers_kill_eleven
+Isiolo,0.98333,38.53333,KE,A,143294,fuzzySWHighMatch1,isiolo,Kenyan_cattle_rustlers_kill_eleven
+Kisima,0.1118,37.41738,KE,P,0,fuzzySWHighMatch1,kisima,Kenyan_cattle_rustlers_kill_eleven
+Libya,28.0,17.0,LY,A,6678567,fuzzySWHighMatch1,libya,Libya_frees_foreign_HIV_medics
+Sofia,42.68647,23.30561,BG,A,1328120,fuzzySWHighMatch1,sofia,Libya_frees_foreign_HIV_medics
+Bulgaria,42.66667,25.25,BG,A,7000039,fuzzySWHighMatch1,bulgaria,Libya_frees_foreign_HIV_medics
+Benghazi,32.11486,20.06859,LY,P,650629,fuzzySWHighMatch1,benghazi,Libya_frees_foreign_HIV_medics
+Qatar,25.5,51.25,QA,A,2781677,fuzzySWHighMatch1,qatar,Libya_frees_foreign_HIV_medics
+France,46.0,2.0,FR,A,66987244,fuzzySWHighMatch1,france,Libya_frees_foreign_HIV_medics
+Tripoli,32.88743,13.18733,LY,P,1150989,fuzzySWHighMatch1,tripoli,Libya_frees_foreign_HIV_medics
+Paris,48.85339,2.34864,FR,A,4380654,fuzzySWHighMatch1,paris,Libya_frees_foreign_HIV_medics
+London,51.50853,-0.12574,GB,P,8961989,fuzzySWHighMatch1,london,Local_government_officials_confiscate_London_ice_cream_made_from_human_breast_milk_for_health_reasons
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,Local_government_officials_confiscate_London_ice_cream_made_from_human_breast_milk_for_health_reasons
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,Local_government_officials_confiscate_London_ice_cream_made_from_human_breast_milk_for_health_reasons
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Local_government_officials_confiscate_London_ice_cream_made_from_human_breast_milk_for_health_reasons
+London,51.50853,-0.12574,GB,P,8961989,fuzzySWHighMatch1,london,London_court_jails_man_after_Dark_Web_ricin_sting
+Liverpool,53.41058,-2.97794,GB,P,864122,fuzzySWHighMatch1,liverpool,London_court_jails_man_after_Dark_Web_ricin_sting
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,London_court_jails_man_after_Dark_Web_ricin_sting
+Marion,39.78171,-86.13847,US,A,977203,fuzzySWHighMatch1,marion,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+Ohio,40.25034,-83.00018,US,A,11467123,fuzzySWHighMatch2,ohio,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+New Jersey,40.16706,-74.49987,US,A,8751436,fuzzySWHighMatch1,new jersey,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+Brooklyn,40.6501,-73.94958,US,P,2300664,fuzzySWHighMatch1,brooklyn,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,"Looted,_possibly_contaminated_body_parts_transplanted_into_USA,_Canadian_patients"
+Chad,15.0,19.0,TD,A,15477751,fuzzySWHighMatch2,chad,M%C3%A9decins_Sans_Fronti%C3%A8res_warns_of_emerging_crisis_in_eastern_Chad
+Sudan,16.0,30.0,SD,A,41801533,fuzzySWHighMatch1,sudan,M%C3%A9decins_Sans_Fronti%C3%A8res_warns_of_emerging_crisis_in_eastern_Chad
+Goz Beida,13.94563,20.5468,TD,P,1500,fuzzySWHighMatch2,goz beida,M%C3%A9decins_Sans_Fronti%C3%A8res_warns_of_emerging_crisis_in_eastern_Chad
+Alabama,32.75041,-86.75026,US,A,4530315,fuzzySWHighMatch1,alabama,Mad_Cow_disease_confirmed_in_U.S.
+Ames,42.03471,-93.61994,US,P,65060,fuzzySWHighMatch2,ames,Mad_Cow_disease_confirmed_in_U.S.
+Iowa,42.00027,-93.50049,US,A,2955010,fuzzySWHighMatch2,iowa,Mad_Cow_disease_confirmed_in_U.S.
+Georgia,32.75042,-83.50018,US,A,8975842,fuzzySWHighMatch1,georgia,Mad_Cow_disease_confirmed_in_U.S.
+Washington,47.50012,-120.50147,US,A,6271775,fuzzySWHighMatch1,washington,Mad_Cow_disease_confirmed_in_U.S.
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Mad_Cow_disease_confirmed_in_U.S.
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,Mad_Cow_disease_confirmed_in_U.S.
+Sweden,62.0,15.0,SE,A,10183175,fuzzySWHighMatch1,sweden,Mad_Cow_disease_confirmed_in_U.S.
+Ontario,49.25014,-84.49983,CA,A,12861940,fuzzySWHighMatch1,ontario,Man_attempts_to_foil_breathalyzer_by_eating_feces
+Stroud,51.75,-2.2,GB,A,117381,fuzzySWHighMatch1,stroud,Man_attempts_to_foil_breathalyzer_by_eating_feces
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Man_attempts_to_foil_breathalyzer_by_eating_feces
+Bradford,53.83333,-1.83333,GB,A,534279,fuzzySWHighMatch1,bradford,Man_attempts_to_foil_breathalyzer_by_eating_feces
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,Mass_poultry_vaccination_planned_by_China
+Anhui,31.91667,117.16667,CN,A,64610000,fuzzySWHighMatch1,anhui,Mass_poultry_vaccination_planned_by_China
+Hunan,27.66667,111.75,CN,A,66980000,fuzzySWHighMatch1,hunan,Mass_poultry_vaccination_planned_by_China
+Liaoning,41.25,122.66667,CN,A,43150000,fuzzySWHighMatch1,liaoning,Mass_poultry_vaccination_planned_by_China
+Puno,-15.0,-70.0,PE,A,1364362,fuzzySWHighMatch2,puno,Meteorite_blamed_for_mysterious_illness_in_Peru
+Peru,-10.0,-75.25,PE,A,31989256,fuzzySWHighMatch2,peru,Meteorite_blamed_for_mysterious_illness_in_Peru
+Bolivia,-17.0,-65.0,BO,A,11353142,fuzzySWHighMatch1,bolivia,Meteorite_blamed_for_mysterious_illness_in_Peru
+Desaguadero,-16.56556,-69.04167,PE,P,5329,fuzzySWHighMatch1,desaguadero,Meteorite_blamed_for_mysterious_illness_in_Peru
+Massachusetts,42.36565,-71.10832,US,A,6433422,fuzzySWHighMatch1,massachusetts,Meteorite_blamed_for_mysterious_illness_in_Peru
+London,51.50853,-0.12574,GB,P,8961989,fuzzySWHighMatch1,london,Meteorite_blamed_for_mysterious_illness_in_Peru
+East Providence,41.81371,-71.37005,US,P,47408,fuzzySWHighMatch1,east providence,Mosquitoes_test_positive_for_West_Nile_virus_in_Rhode_Island
+Barrington,41.74066,-71.30866,US,P,16669,fuzzySWHighMatch1,barrington,Mosquitoes_test_positive_for_West_Nile_virus_in_Rhode_Island
+Rhode Island,41.75038,-71.49978,US,A,1050292,fuzzySWHighMatch1,rhode island,Mosquitoes_test_positive_for_West_Nile_virus_in_Rhode_Island
+Massachusetts,42.36565,-71.10832,US,A,6433422,fuzzySWHighMatch1,massachusetts,Mosquitoes_test_positive_for_West_Nile_virus_in_Rhode_Island
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,"Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school"
+Santa Ana,33.74557,-117.86783,US,P,335400,fuzzySWHighMatch2,santa ana,"Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school"
+Newport Beach,33.61891,-117.92895,US,P,87127,fuzzySWHighMatch1,newport beach,"Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school"
+Irvine,33.66946,-117.82311,US,P,256927,fuzzySWHighMatch1,irvine,"Mothers,_teachers_air_more_concerns_about_leukemia_cases_at_California_elementary_school"
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+Norway,62.0,10.0,NO,A,5314336,fuzzySWHighMatch1,norway,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+North Carolina,35.50069,-80.00032,US,A,10488084,fuzzySWHighMatch1,north carolina,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+Mexico,23.0,-102.0,MX,A,126190788,fuzzySWHighMatch1,mexico,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+Japan,35.68536,139.75309,JP,A,126529100,fuzzySWHighMatch1,japan,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+Ukraine,49.0,32.0,UA,A,44622516,fuzzySWHighMatch1,ukraine,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+Brazil,-10.0,-55.0,BR,A,209469333,fuzzySWHighMatch1,brazil,Mutated_strain_of_H1N1_virus_detected_in_US_and_Norway
+Haiti,19.07582,-72.29616,HT,A,11123176,fuzzySWHighMatch1,haiti,Nearly_200_dead_in_Haitian_cholera_outbreak
+Christchurch,-43.53333,172.63333,NZ,P,363926,fuzzySWHighMatch1,christchurch,New_Zealand_journalists_fall_ill_on_testing_water_filter
+New Zealand,-42.0,174.0,NZ,A,4885500,fuzzySWHighMatch1,new zealand,New_Zealand_journalists_fall_ill_on_testing_water_filter
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,New_Zealand_journalists_fall_ill_on_testing_water_filter
+Germany,51.5,10.5,DE,A,82927922,fuzzySWHighMatch1,germany,New_avian_flu_outbreaks_reported_in_western_Europe
+France,46.0,2.0,FR,A,66987244,fuzzySWHighMatch1,france,New_avian_flu_outbreaks_reported_in_western_Europe
+Saxony-Anhalt,52.0,11.7333,DE,A,2356219,fuzzySWHighMatch1,saxony-anhalt,New_avian_flu_outbreaks_reported_in_western_Europe
+Thuringia,50.91667,11.0,DE,A,2249882,fuzzySWHighMatch1,thuringia,New_avian_flu_outbreaks_reported_in_western_Europe
+Romania,46.0,25.0,RO,A,19473936,fuzzySWHighMatch1,romania,New_bird_flu_outbreaks_reported_in_Europe
+Ciocile,44.81667,27.23333,RO,P,3101,fuzzySWHighMatch1,ciocile,New_bird_flu_outbreaks_reported_in_Europe
+Brăila,45.08333,27.66667,RO,A,367830,fuzzySWHighMatch1,brăila,New_bird_flu_outbreaks_reported_in_Europe
+Ceamurlia de Jos,44.73333,28.71667,RO,P,2596,fuzzySWHighMatch1,ceamurlia de jos,New_bird_flu_outbreaks_reported_in_Europe
+Maliuc,45.17678,29.11334,RO,P,238,fuzzySWHighMatch1,maliuc,New_bird_flu_outbreaks_reported_in_Europe
+Caraorman,45.07891,29.39321,RO,P,494,fuzzySWHighMatch1,caraorman,New_bird_flu_outbreaks_reported_in_Europe
+Russia,60.0,100.0,RU,A,144478050,fuzzySWHighMatch1,russia,New_bird_flu_outbreaks_reported_in_Europe
+Crimea,45.0,34.0,UA,A,1907106,fuzzySWHighMatch1,crimea,New_bird_flu_outbreaks_reported_in_Europe
+Alberta,52.28333,-117.469,CA,A,3497881,fuzzySWHighMatch1,alberta,New_case_of_Mad_Cow_disease_found_in_Canada
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,New_case_of_Mad_Cow_disease_found_in_Canada
+Winnipeg,49.8844,-97.14704,CA,P,632063,fuzzySWHighMatch1,winnipeg,New_case_of_Mad_Cow_disease_found_in_Canada
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,New_case_of_Mad_Cow_disease_found_in_Canada
+Washington,47.50012,-120.50147,US,A,6271775,fuzzySWHighMatch1,washington,New_case_of_Mad_Cow_disease_found_in_Canada
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,New_case_of_Mad_Cow_disease_found_in_Canada
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,New_case_of_Mad_Cow_disease_found_in_Canada
+Paris,48.85339,2.34864,FR,A,4380654,fuzzySWHighMatch1,paris,New_human_HIV_strain_discovered_in_France
+France,46.0,2.0,FR,A,66987244,fuzzySWHighMatch1,france,New_human_HIV_strain_discovered_in_France
+Cameroon,6.0,12.5,CM,A,25216237,fuzzySWHighMatch1,cameroon,New_human_HIV_strain_discovered_in_France
+Hong Kong,22.27832,114.17469,HK,P,7482500,fuzzySWHighMatch2,hong kong,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+Vietnam,16.16667,107.83333,VN,A,95540395,fuzzySWHighMatch1,vietnam,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+Indonesia,-5.0,120.0,ID,A,267663435,fuzzySWHighMatch1,indonesia,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+Laos,18.0,105.0,LA,A,7061507,fuzzySWHighMatch2,laos,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+Cambodia,13.0,105.0,KH,A,16249798,fuzzySWHighMatch1,cambodia,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+Thailand,15.5,101.0,TH,A,69428524,fuzzySWHighMatch1,thailand,New_laws_to_combat_%27endemic%27_Hong_Kong_bird_flu
+Poland,52.0,20.0,PL,A,37978548,fuzzySWHighMatch1,poland,New_outbreak_of_H5N1_Avian_Flu_virus_reported_in_Poland
+Orneta,54.11483,20.13328,PL,P,9412,fuzzySWHighMatch1,orneta,New_outbreak_of_H5N1_Avian_Flu_virus_reported_in_Poland
+Bieżuń,52.96107,19.88976,PL,P,1931,fuzzySWHighMatch1,bieżuń,New_outbreak_of_H5N1_Avian_Flu_virus_reported_in_Poland
+Pingliang,35.53917,106.68611,CN,P,504848,fuzzySWHighMatch1,pingliang,"Nitrite_poisoned_milk_kills_three_babies,_sickens_35_in_China"
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,"Nitrite_poisoned_milk_kills_three_babies,_sickens_35_in_China"
+Rogaland,59.09608,6.20442,NO,A,393104,fuzzySWHighMatch1,rogaland,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+Vestfold,59.2654,10.4159,NO,A,236424,fuzzySWHighMatch1,vestfold,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+Buskerud,59.7484,10.1891,NO,A,253006,fuzzySWHighMatch1,buskerud,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+Telemark,59.2161,9.6112,NO,A,170643,fuzzySWHighMatch1,telemark,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+Akershus,60.0,11.16667,NO,A,523272,fuzzySWHighMatch1,akershus,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+Oslo,59.91273,10.74609,NO,P,580000,fuzzySWHighMatch2,oslo,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+Hedmark,60.7953,11.0827,NO,A,188376,fuzzySWHighMatch1,hedmark,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+Vest-Agder,58.1513,7.9947,NO,A,161276,fuzzySWHighMatch1,vest-agder,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+Russia,60.0,100.0,RU,A,144478050,fuzzySWHighMatch1,russia,Norway_takes_action_to_prevent_a_possible_bird_flu_epidemic
+Zimbabwe,-19.0,29.75,ZW,A,14439018,fuzzySWHighMatch1,zimbabwe,Number_of_Zimbabwe_cholera_deaths_nears_500
+Harare,-17.85417,31.05833,ZW,A,1606000,fuzzySWHighMatch1,harare,Number_of_Zimbabwe_cholera_deaths_nears_500
+Botswana,-22.0,24.0,BW,A,2254126,fuzzySWHighMatch1,botswana,Number_of_Zimbabwe_cholera_deaths_nears_500
+Mozambique,-18.25,35.0,MZ,A,29495962,fuzzySWHighMatch1,mozambique,Number_of_Zimbabwe_cholera_deaths_nears_500
+South Africa,-29.0,24.0,ZA,A,57779622,fuzzySWHighMatch1,south africa,Number_of_Zimbabwe_cholera_deaths_nears_500
+Zimbabwe,-19.0,29.75,ZW,A,14439018,fuzzySWHighMatch1,zimbabwe,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+Zambia,-14.33333,28.5,ZM,A,17351822,fuzzySWHighMatch1,zambia,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+Malawi,-13.5,34.0,MW,A,17563749,fuzzySWHighMatch1,malawi,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+Mozambique,-18.25,35.0,MZ,A,29495962,fuzzySWHighMatch1,mozambique,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+South Africa,-29.0,24.0,ZA,A,57779622,fuzzySWHighMatch1,south africa,"Number_of_cholera_cases_in_Zimbabwe_reaches_80,000"
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+Indonesia,-5.0,120.0,ID,A,267663435,fuzzySWHighMatch1,indonesia,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+Rome,41.96667,12.66667,IT,A,4342212,fuzzySWHighMatch2,rome,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+Italy,42.83333,12.83333,IT,A,60431283,fuzzySWHighMatch1,italy,"OIE:_China,_Indonesia_and_Africa_%22under-reporting%22_human_and_animal_Bird_Flu_cases"
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Obama%27s_100-day_speech_warns_of_U.S.%27s_problems
+Iraq,33.0,44.0,IQ,A,38433600,fuzzySWHighMatch2,iraq,Obama%27s_100-day_speech_warns_of_U.S.%27s_problems
+Afghanistan,33.0,66.0,AF,A,37172386,fuzzySWHighMatch1,afghanistan,Obama%27s_100-day_speech_warns_of_U.S.%27s_problems
+North Korea,40.0,127.0,KP,A,25549819,fuzzySWHighMatch1,north korea,Obama%27s_100-day_speech_warns_of_U.S.%27s_problems
+Iran,32.0,53.0,IR,A,81800269,fuzzySWHighMatch2,iran,Obama%27s_100-day_speech_warns_of_U.S.%27s_problems
+Mexico,23.0,-102.0,MX,A,126190788,fuzzySWHighMatch1,mexico,Obama%27s_100-day_speech_warns_of_U.S.%27s_problems
+Port-au-Prince,18.54349,-72.33881,HT,P,1234742,fuzzySWHighMatch1,port-au-prince,"Over_250_dead_in_Haiti_cholera_outbreak,_thousands_infected"
+Saint-Marc,19.10819,-72.69379,HT,P,66226,fuzzySWHighMatch1,saint-marc,"Over_250_dead_in_Haiti_cholera_outbreak,_thousands_infected"
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,"Over_250_dead_in_Haiti_cholera_outbreak,_thousands_infected"
+Kenya,1.0,38.0,KE,A,51393010,fuzzySWHighMatch1,kenya,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Nyanza Province,-0.5,34.5,KE,A,4392196,fuzzySWHighMatch1,nyanza province,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Nyanza,-2.36516,29.74942,RW,A,0,fuzzySWHighMatch1,nyanza,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+North Eastern Province,1.0,40.25,KE,A,962143,fuzzySWHighMatch1,north eastern province,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Rift Valley Province,0.5,36.0,KE,A,6987036,fuzzySWHighMatch1,rift valley province,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Suba,-1.46611,33.94684,TZ,A,0,fuzzySWHighMatch2,suba,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Migori,-0.982,34.409,KE,A,1028579,fuzzySWHighMatch1,migori,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Homa Bay,-0.666,34.481,KE,A,963794,fuzzySWHighMatch2,homa bay,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Rongo,22.4045,85.27392,IN,P,0,fuzzySWHighMatch1,rongo,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Siaya,0.105,34.302,KE,A,842304,fuzzySWHighMatch1,siaya,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Kisumu,-0.069,34.64,KE,A,968909,fuzzySWHighMatch1,kisumu,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Bondo,3.81461,23.68665,CD,P,17860,fuzzySWHighMatch1,bondo,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Nyando,-2.9403,29.9923,BI,P,0,fuzzySWHighMatch1,nyando,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Kisii,-0.75,34.83333,KE,A,1152282,fuzzySWHighMatch1,kisii,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Wajir,1.75,40.01667,KE,A,661941,fuzzySWHighMatch1,wajir,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Mandera,3.36667,40.7,KE,A,1025756,fuzzySWHighMatch1,mandera,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Nakuru,-0.48402,36.17126,KE,A,1603325,fuzzySWHighMatch1,nakuru,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Nairobi,-1.28333,36.83333,KE,A,3138369,fuzzySWHighMatch1,nairobi,"Over_60_dead_in_Kenya_cholera_outbreak,_state_issues_alert"
+Georgia,32.75042,-83.50018,US,A,8975842,fuzzySWHighMatch1,georgia,PM_of_Georgia_dies_of_gas_poisoning
+Athens,37.98888,23.73604,GR,A,664046,fuzzySWHighMatch1,athens,"Pamela_Anderson_visits_Greece,_promoting_the_MAC_AIDS_Fund"
+Greece,39.0,22.0,GR,A,10727668,fuzzySWHighMatch1,greece,"Pamela_Anderson_visits_Greece,_promoting_the_MAC_AIDS_Fund"
+Hollywood,34.09834,-118.32674,US,P,167664,fuzzySWHighMatch1,hollywood,"Pamela_Anderson_visits_Greece,_promoting_the_MAC_AIDS_Fund"
+Toronto,43.70011,-79.4163,CA,P,2600000,fuzzySWHighMatch1,toronto,"Pamela_Anderson_visits_Greece,_promoting_the_MAC_AIDS_Fund"
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,"Pamela_Anderson_visits_Greece,_promoting_the_MAC_AIDS_Fund"
+Papua New Guinea,-6.0,147.0,PG,A,8606316,fuzzySWHighMatch1,papua new guinea,Papua_New_Guinea_at_risk_of_AIDS_epidemic
+Malaysia,2.5,112.5,MY,A,31528585,fuzzySWHighMatch1,malaysia,Papua_New_Guinea_at_risk_of_AIDS_epidemic
+Vietnam,16.16667,107.83333,VN,A,95540395,fuzzySWHighMatch1,vietnam,Papua_New_Guinea_at_risk_of_AIDS_epidemic
+Myanmar,21.0,96.0,MM,A,53708395,fuzzySWHighMatch1,myanmar,Papua_New_Guinea_at_risk_of_AIDS_epidemic
+Washington,47.50012,-120.50147,US,A,6271775,fuzzySWHighMatch1,washington,Patient_under_evaluation_with_Ebola-like_symptoms_in_Washington_D.C.
+Rockville,39.084,-77.15276,US,P,66980,fuzzySWHighMatch1,rockville,Patient_under_evaluation_with_Ebola-like_symptoms_in_Washington_D.C.
+Maryland,39.00039,-76.74997,US,A,5624246,fuzzySWHighMatch1,maryland,Patient_under_evaluation_with_Ebola-like_symptoms_in_Washington_D.C.
+Nigeria,10.0,8.0,NG,A,195874740,fuzzySWHighMatch1,nigeria,Patient_under_evaluation_with_Ebola-like_symptoms_in_Washington_D.C.
+Denver,39.73915,-104.9847,US,P,715522,fuzzySWHighMatch1,denver,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+Cajamarca,-6.25,-78.83333,PE,A,1359023,fuzzySWHighMatch1,cajamarca,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+Peru,-10.0,-75.25,PE,A,31989256,fuzzySWHighMatch2,peru,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+San Juan,-31.0,-69.0,AR,A,620023,fuzzySWHighMatch2,san juan,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+Choropampa,-6.42308,-78.34672,PE,P,320,fuzzySWHighMatch1,choropampa,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+Magdalena,13.92452,-88.36675,HN,A,4079,fuzzySWHighMatch1,magdalena,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+Yanacocha,-10.47135,-76.50188,PE,P,553,fuzzySWHighMatch1,yanacocha,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+Indonesia,-5.0,120.0,ID,A,267663435,fuzzySWHighMatch1,indonesia,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+Jakarta,-6.2182,106.8584,ID,A,9953016,fuzzySWHighMatch1,jakarta,Peruvians_sue_Newmont_Mining_Company_over_mercury_poisoning
+Pandi,14.87462,120.96683,PH,A,89075,fuzzySWHighMatch1,pandi,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak1
+Central Luzon,15.30714,120.79762,PH,A,10137737,fuzzySWHighMatch1,central luzon,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak1
+Bulacan,14.79278,120.87889,PH,P,71274,fuzzySWHighMatch1,bulacan,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak1
+Bulacan,14.79278,120.87889,PH,P,71274,fuzzySWHighMatch1,bulacan,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+Manaoag,16.03333,120.48333,PH,A,69497,fuzzySWHighMatch1,manaoag,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+Palauig,15.45,120.05,PH,A,34947,fuzzySWHighMatch1,palauig,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+Sudan,16.0,30.0,SD,A,41801533,fuzzySWHighMatch1,sudan,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+Ivory Coast,8.0,-5.5,CI,A,25069229,resolvedByAliace,Côte d'Ivoire,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak2
+Quezon City,14.63333,121.03333,PH,A,2936116,fuzzySWHighMatch1,quezon city,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+Bulacan,14.79278,120.87889,PH,P,71274,fuzzySWHighMatch1,bulacan,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+Pandi,14.87462,120.96683,PH,A,89075,fuzzySWHighMatch1,pandi,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+Talavera,15.61667,120.93333,PH,A,124829,fuzzySWHighMatch1,talavera,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+Eastern Visayas,11.51649,124.96204,PH,A,3912936,fuzzySWHighMatch1,eastern visayas,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+Tacloban,9.21861,123.5525,PH,P,0,fuzzySWHighMatch1,tacloban,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+Babatngon,11.38333,124.9,PH,A,27797,fuzzySWHighMatch1,babatngon,Philippines_is_culling_6500_hogs_after_Reston_ebolavirus_outbreak3
+Ituri,1.56667,30.25,CD,A,4241236,fuzzySWHighMatch1,ituri,Plague_kills_scores_in_Democratic_Republic_of_Congo
+Orientale,2.5,27.0,CD,A,6828888,fuzzySWHighMatch1,orientale,Plague_kills_scores_in_Democratic_Republic_of_Congo
+Congo,-7.79578,-36.63487,BR,A,4692,fuzzySWHighMatch1,congo,Plague_kills_scores_in_Democratic_Republic_of_Congo
+Kinshasa,-4.32758,15.31357,CD,P,7785965,fuzzySWHighMatch1,kinshasa,Plague_kills_scores_in_Democratic_Republic_of_Congo
+Kenya,1.0,38.0,KE,A,51393010,fuzzySWHighMatch1,kenya,Poisoned_liquor_kills_17_in_Kenyan_slum
+Nairobi,-1.28333,36.83333,KE,A,3138369,fuzzySWHighMatch1,nairobi,Poisoned_liquor_kills_17_in_Kenyan_slum
+Kibera,0.65,28.76667,CD,P,0,fuzzySWHighMatch1,kibera,Poisoned_liquor_kills_17_in_Kenyan_slum
+Burkina Faso,12.5,-1.66667,BF,A,19751535,fuzzySWHighMatch1,burkina faso,Polio_vaccination_campaign_targets_85_million_African_children
+Cameroon,6.0,12.5,CM,A,25216237,fuzzySWHighMatch1,cameroon,Polio_vaccination_campaign_targets_85_million_African_children
+Chad,15.0,19.0,TD,A,15477751,fuzzySWHighMatch2,chad,Polio_vaccination_campaign_targets_85_million_African_children
+Guinea,10.83333,-10.66667,GN,A,12414318,fuzzySWHighMatch1,guinea,Polio_vaccination_campaign_targets_85_million_African_children
+Liberia,6.5,-9.5,LR,A,4818977,fuzzySWHighMatch1,liberia,Polio_vaccination_campaign_targets_85_million_African_children
+Mali,18.0,-2.0,ML,A,19077690,fuzzySWHighMatch2,mali,Polio_vaccination_campaign_targets_85_million_African_children
+Mauritania,20.25,-10.5,MR,A,4403319,fuzzySWHighMatch1,mauritania,Polio_vaccination_campaign_targets_85_million_African_children
+Senegal,14.5,-14.25,SN,A,15854360,fuzzySWHighMatch1,senegal,Polio_vaccination_campaign_targets_85_million_African_children
+Sierra Leone,8.5,-11.5,SL,A,7650154,fuzzySWHighMatch1,sierra leone,Polio_vaccination_campaign_targets_85_million_African_children
+Benin,9.5,2.25,BJ,A,11485048,fuzzySWHighMatch1,benin,Polio_vaccination_campaign_targets_85_million_African_children
+Central African Republic,7.0,21.0,CF,A,4666377,fuzzySWHighMatch1,central african republic,Polio_vaccination_campaign_targets_85_million_African_children
+Ghana,8.1,-1.2,GH,A,29767108,fuzzySWHighMatch1,ghana,Polio_vaccination_campaign_targets_85_million_African_children
+Guinea-Bissau,12.0,-15.0,GW,A,1874309,fuzzySWHighMatch1,guinea-bissau,Polio_vaccination_campaign_targets_85_million_African_children
+Niger,18.0,9.0,NE,A,22442948,fuzzySWHighMatch1,niger,Polio_vaccination_campaign_targets_85_million_African_children
+Nigeria,10.0,8.0,NG,A,195874740,fuzzySWHighMatch1,nigeria,Polio_vaccination_campaign_targets_85_million_African_children
+Togo,8.66667,1.08333,TG,A,7889094,fuzzySWHighMatch2,togo,Polio_vaccination_campaign_targets_85_million_African_children
+Ivory Coast,8.0,-5.5,CI,A,25069229,resolvedByAliace,Côte d'Ivoire,Polio_vaccination_campaign_targets_85_million_African_children
+Rome,41.96667,12.66667,IT,A,4342212,fuzzySWHighMatch2,rome,Pope_to_leave_hospital
+Sweden,62.0,15.0,SE,A,10183175,fuzzySWHighMatch1,sweden,Possible_first_case_of_mad_cow_disease_in_Sweden
+Västerås,59.61617,16.55276,SE,P,117746,fuzzySWHighMatch1,västerås,Possible_first_case_of_mad_cow_disease_in_Sweden
+Stockholm,59.5,18.0,SE,A,2127006,fuzzySWHighMatch1,stockholm,Possible_first_case_of_mad_cow_disease_in_Sweden
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,Possible_first_case_of_mad_cow_disease_in_Sweden
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Possible_first_case_of_mad_cow_disease_in_Sweden
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,"Post-probe,_problematic_peanut_paste_products_pulled"
+Blakely,41.48091,-75.59463,US,P,6334,fuzzySWHighMatch1,blakely,"Post-probe,_problematic_peanut_paste_products_pulled"
+Georgia,32.75042,-83.50018,US,A,8975842,fuzzySWHighMatch1,georgia,"Post-probe,_problematic_peanut_paste_products_pulled"
+Roanoke,37.27097,-79.94143,US,P,99897,fuzzySWHighMatch1,roanoke,"Post-probe,_problematic_peanut_paste_products_pulled"
+Virginia,37.54812,-77.44675,US,A,7642884,fuzzySWHighMatch1,virginia,"Post-probe,_problematic_peanut_paste_products_pulled"
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Usa,"Post-probe,_problematic_peanut_paste_products_pulled"
+Queensland,-20.0,145.0,AU,A,5052800,fuzzySWHighMatch1,queensland,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+Innisfail,-17.52209,146.03102,AU,P,1241,fuzzySWHighMatch1,innisfail,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+Cairns,-16.90268,145.75287,AU,A,168618,fuzzySWHighMatch1,cairns,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+Brisbane,-27.46794,153.02809,AU,P,2189878,fuzzySWHighMatch1,brisbane,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+Townsville,-19.26639,146.80569,AU,P,196219,fuzzySWHighMatch1,townsville,Queensland_mops_up_after_Cyclone_Larry%27s_billion_dollar_devastation
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+Oak Brook,41.83281,-87.92895,US,P,8091,fuzzySWHighMatch2,oak brook,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+Illinois,40.00032,-89.25037,US,A,12772888,fuzzySWHighMatch1,illinois,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+Dongguan,23.01797,113.74866,CN,P,9644871,fuzzySWHighMatch1,dongguan,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Recall_of_Thomas_the_Tank_Engine_toys_due_to_lead-paint_fears
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Recent_American_E._coli_outbreak_linked_to_cattle
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Recent_American_E._coli_outbreak_linked_to_cattle
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,Recent_American_E._coli_outbreak_linked_to_cattle
+Nepal,28.0,84.0,NP,A,28087871,fuzzySWHighMatch1,nepal,"Ritual_sacrifice_in_Nepal_sees_320,000_animals_slaughtered_to_Hindu_goddess"
+Bariyarpur,26.9382,85.35177,NP,P,0,fuzzySWHighMatch1,bariyarpur,"Ritual_sacrifice_in_Nepal_sees_320,000_animals_slaughtered_to_Hindu_goddess"
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,"Ritual_sacrifice_in_Nepal_sees_320,000_animals_slaughtered_to_Hindu_goddess"
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Salmonella_outbreak_sickens_over_one_thousand_in_United_States
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Salmonella_outbreak_sickens_over_one_thousand_in_United_States
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,Salmonella_outbreak_sickens_over_one_thousand_in_United_States
+New Mexico,34.50034,-106.00085,US,A,1912684,fuzzySWHighMatch1,new mexico,Salmonella_outbreak_sickens_over_one_thousand_in_United_States
+Illinois,40.00032,-89.25037,US,A,12772888,fuzzySWHighMatch1,illinois,Salmonella_outbreak_sickens_over_one_thousand_in_United_States
+Mecca,33.57219,-116.0782,US,P,8577,fuzzySWHighMatch1,mecca,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+Sudan,16.0,30.0,SD,A,41801533,fuzzySWHighMatch1,sudan,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+Morocco,28.5,-10.0,MA,A,36029138,fuzzySWHighMatch1,morocco,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+Nigeria,10.0,8.0,NG,A,195874740,fuzzySWHighMatch1,nigeria,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+Medina,24.46861,39.61417,SA,P,1300000,fuzzySWHighMatch1,medina,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+Egypt,27.0,30.0,EG,A,98423595,fuzzySWHighMatch1,egypt,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+Cairo,30.06263,31.24967,EG,P,9606916,fuzzySWHighMatch1,cairo,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+Saudi Arabia,25.0,45.0,SA,A,33699947,fuzzySWHighMatch1,saudi arabia,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+Iran,32.0,53.0,IR,A,81800269,fuzzySWHighMatch2,iran,Saudi_Arabia_fears_Hajj_swine_flu_outbreak_as_four_pilgrims_die
+Buckinghamshire,51.75,-0.75,GB,A,534720,fuzzySWHighMatch1,buckinghamshire,"School_closed_after_five-year-old_boy_dies_from_suspected_swine_flu_in_Buckinghamshire,_England"
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,"School_closed_after_five-year-old_boy_dies_from_suspected_swine_flu_in_Buckinghamshire,_England"
+Milton Keynes,52.08333,-0.75,GB,A,264479,fuzzySWHighMatch1,milton keynes,"School_closed_after_five-year-old_boy_dies_from_suspected_swine_flu_in_Buckinghamshire,_England"
+London,51.50853,-0.12574,GB,P,8961989,fuzzySWHighMatch1,london,Scottish_Ebola_nurse_Pauline_Cafferkey_%27critically_ill%27_says_Royal_Free_Hospital
+Sierra Leone,8.5,-11.5,SL,A,7650154,fuzzySWHighMatch1,sierra leone,Scottish_Ebola_nurse_Pauline_Cafferkey_%27critically_ill%27_says_Royal_Free_Hospital
+Glasgow,55.86515,-4.25763,GB,P,591620,fuzzySWHighMatch1,glasgow,Scottish_Ebola_nurse_Pauline_Cafferkey_%27critically_ill%27_says_Royal_Free_Hospital
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,Second_H5N1_infection_reported_in_China
+Jiangsu,33.0,119.83333,CN,A,76770000,fuzzySWHighMatch1,jiangsu,Second_H5N1_infection_reported_in_China
+Zimbabwe,-19.0,29.75,ZW,A,14439018,fuzzySWHighMatch1,zimbabwe,Sharp_increase_in_number_of_Zimbabwean_cholera_deaths
+Harare,-17.85417,31.05833,ZW,A,1606000,fuzzySWHighMatch1,harare,Sharp_increase_in_number_of_Zimbabwean_cholera_deaths
+Beitbridge,-22.21667,30.0,ZW,P,26459,fuzzySWHighMatch1,beitbridge,Sharp_increase_in_number_of_Zimbabwean_cholera_deaths
+South Africa,-29.0,24.0,ZA,A,57779622,fuzzySWHighMatch1,south africa,Sharp_increase_in_number_of_Zimbabwean_cholera_deaths
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,Sharp_increase_in_number_of_Zimbabwean_cholera_deaths
+Philippines,13.40882,122.56155,PH,A,106651922,fuzzySWHighMatch1,philippines,Six_H1N1_cases_appear_in_the_Philippines
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Six_H1N1_cases_appear_in_the_Philippines
+South Sudan,7.5,30.0,SS,A,8260490,fuzzySWHighMatch1,south sudan,Six_aid_workers_dead_in_ambush_in_South_Sudan
+Juba,4.85871,31.59162,SS,A,492970,fuzzySWHighMatch2,juba,Six_aid_workers_dead_in_ambush_in_South_Sudan
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,Sizzler_salad_bars_shut_after_rat_poison_found_in_food
+Brisbane,-27.46794,153.02809,AU,P,2189878,fuzzySWHighMatch1,brisbane,Sizzler_salad_bars_shut_after_rat_poison_found_in_food
+Surrey,51.25,-0.33333,GB,A,1176549,fuzzySWHighMatch1,surrey,Source_of_UK_foot-and-mouth_outbreak_discovered
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Source_of_UK_foot-and-mouth_outbreak_discovered
+Delmas,18.55514,-72.29803,HT,A,395260,fuzzySWHighMatch1,delmas,South_African_typhoid_outbreak_protest_dispersed_with_rubber_bullets
+South Africa,-29.0,24.0,ZA,A,57779622,fuzzySWHighMatch1,south africa,South_African_typhoid_outbreak_protest_dispersed_with_rubber_bullets
+Johannesburg,-26.20227,28.04363,ZA,P,2026469,fuzzySWHighMatch1,johannesburg,South_African_typhoid_outbreak_protest_dispersed_with_rubber_bullets
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,South_Korean_police_clamp_down_on_protests_against_US_beef
+Pakistan,30.0,70.0,PK,A,212215030,fuzzySWHighMatch1,pakistan,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+Khyber Pakhtunkhwa,33.98306,71.68611,PK,A,22000000,fuzzySWHighMatch1,khyber pakhtunkhwa,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+Punjab,30.85,72.31667,PK,A,85579866,fuzzySWHighMatch1,punjab,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+Sindh,26.13333,68.76667,PK,A,35992288,fuzzySWHighMatch1,sindh,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+Kalam,24.4541,89.17287,BD,A,0,fuzzySWHighMatch1,kalam,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+Malaysia,2.5,112.5,MY,A,31528585,fuzzySWHighMatch1,malaysia,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,"Spreading_floods_in_Pakistan_worsen,_at_least_1600_dead"
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,State_of_emergency_declared_in_New_York_over_H1N1_swine_flu_virus
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,State_of_emergency_declared_in_New_York_over_H1N1_swine_flu_virus
+Kinshasa,-4.32758,15.31357,CD,P,7785965,fuzzySWHighMatch1,kinshasa,Study_estimates_first_human_HIV_infection_100_years_ago
+Tucson,32.22174,-110.92648,US,P,531641,fuzzySWHighMatch1,tucson,Study_estimates_first_human_HIV_infection_100_years_ago
+Arizona,34.5003,-111.50098,US,A,5863809,fuzzySWHighMatch1,arizona,Study_estimates_first_human_HIV_infection_100_years_ago
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Study_estimates_first_human_HIV_infection_100_years_ago
+France,46.0,2.0,FR,A,66987244,fuzzySWHighMatch1,france,Study_estimates_first_human_HIV_infection_100_years_ago
+Belgium,50.75,4.5,BE,A,11422068,fuzzySWHighMatch1,belgium,Study_estimates_first_human_HIV_infection_100_years_ago
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,Study_estimates_first_human_HIV_infection_100_years_ago
+Denmark,56.0,10.0,DK,A,5797446,fuzzySWHighMatch1,denmark,Study_estimates_first_human_HIV_infection_100_years_ago
+Cameroon,6.0,12.5,CM,A,25216237,fuzzySWHighMatch1,cameroon,Study_estimates_first_human_HIV_infection_100_years_ago
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Study_reveals_mercury_contamination_throughout_US_food_chain
+Florida,28.75054,-82.5001,US,A,17671452,fuzzySWHighMatch1,florida,Study_reveals_mercury_contamination_throughout_US_food_chain
+Utah,39.25024,-111.75103,US,A,2427340,fuzzySWHighMatch2,utah,Study_reveals_mercury_contamination_throughout_US_food_chain
+Georgia,32.75042,-83.50018,US,A,8975842,fuzzySWHighMatch1,georgia,Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences
+Glasgow,55.86515,-4.25763,GB,P,591620,fuzzySWHighMatch1,glasgow,Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences
+South Sudan,7.5,30.0,SS,A,8260490,fuzzySWHighMatch1,south sudan,Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences
+Angola,-12.5,18.5,AO,A,30809762,fuzzySWHighMatch1,angola,Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences
+Uganda,1.25,32.5,UG,A,42723139,fuzzySWHighMatch1,uganda,Study_suggests_%27sleeping_sickness%27_parasite_mutated_to_evade_immune_system_defences
+Khartoum,15.8,33.0,SD,A,7152102,fuzzySWHighMatch1,khartoum,Sudan_reports_first_bird_flu_case
+Sudan,16.0,30.0,SD,A,41801533,fuzzySWHighMatch1,sudan,Sudan_reports_first_bird_flu_case
+Egypt,27.0,30.0,EG,A,98423595,fuzzySWHighMatch1,egypt,Sudan_reports_first_bird_flu_case
+Frederick,39.20456,-78.26258,US,A,78305,fuzzySWHighMatch1,frederick,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+Maryland,39.00039,-76.74997,US,A,5624246,fuzzySWHighMatch1,maryland,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+Washington,38.89511,-77.03637,US,P,689545,fuzzySWHighMatch2,washington dc,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+Florida,28.75054,-82.5001,US,A,17671452,fuzzySWHighMatch1,florida,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+Frederick County,39.47222,-77.39799,US,A,271717,fuzzySWHighMatch1,frederick county,Suspect_in_2001_anthrax_attack_dies_of_apparent_suicide
+Michigan,44.25029,-85.50033,US,A,9883360,fuzzySWHighMatch1,michigan,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+Ames,42.03471,-93.61994,US,P,65060,fuzzySWHighMatch2,ames,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+Iowa,42.00027,-93.50049,US,A,2955010,fuzzySWHighMatch2,iowa,Suspected_low_pathogenic_H5N1_Bird_Flu_virus_found_in_the_United_States
+Fife,56.25,-3.16667,GB,A,370330,fuzzySWHighMatch2,fife,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+Scotland,56.0,-4.0,GB,A,5404700,fuzzySWHighMatch1,scotland,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+Glasgow,55.86515,-4.25763,GB,P,591620,fuzzySWHighMatch1,glasgow,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+Weybridge,51.37178,-0.45975,GB,P,19463,fuzzySWHighMatch1,weybridge,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,"Swan_in_Fife,_Scotland_dies_with_H5N1_bird_flu_virus_infection"
+Dresden,51.16667,14.08333,DE,A,1631486,fuzzySWHighMatch1,dresden,Swan_in_German_zoo_tests_positive_for_H5N1_virus
+Germany,51.5,10.5,DE,A,82927922,fuzzySWHighMatch1,germany,Swan_in_German_zoo_tests_positive_for_H5N1_virus
+Mexico,23.0,-102.0,MX,A,126190788,fuzzySWHighMatch1,mexico,"Swine_flu,_in-depth:_worldwide_report"
+Brazil,-10.0,-55.0,BR,A,209469333,fuzzySWHighMatch1,brazil,"Swine_flu,_in-depth:_worldwide_report"
+France,46.0,2.0,FR,A,66987244,fuzzySWHighMatch1,france,"Swine_flu,_in-depth:_worldwide_report"
+Italy,42.83333,12.83333,IT,A,60431283,fuzzySWHighMatch1,italy,"Swine_flu,_in-depth:_worldwide_report"
+New Zealand,-42.0,174.0,NZ,A,4885500,fuzzySWHighMatch1,new zealand,"Swine_flu,_in-depth:_worldwide_report"
+Norway,62.0,10.0,NO,A,5314336,fuzzySWHighMatch1,norway,"Swine_flu,_in-depth:_worldwide_report"
+Switzerland,47.00016,8.01427,CH,A,8516543,fuzzySWHighMatch1,switzerland,"Swine_flu,_in-depth:_worldwide_report"
+Rio de Janeiro,-22.25,-42.5,BR,A,15993583,fuzzySWHighMatch1,rio de janeiro,"Swine_flu,_in-depth:_worldwide_report"
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,"Swine_flu,_in-depth:_worldwide_report"
+Argentina,-34.0,-64.0,AR,A,44494502,fuzzySWHighMatch1,argentina,"Swine_flu,_in-depth:_worldwide_report"
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,"Swine_flu,_in-depth:_worldwide_report"
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,"Swine_flu,_in-depth:_worldwide_report"
+Kenya,1.0,38.0,KE,A,51393010,fuzzySWHighMatch1,kenya,"Swine_flu,_in-depth:_worldwide_report"
+Nairobi,-1.28333,36.83333,KE,A,3138369,fuzzySWHighMatch1,nairobi,"Swine_flu,_in-depth:_worldwide_report"
+Kisumu,-0.069,34.64,KE,A,968909,fuzzySWHighMatch1,kisumu,"Swine_flu,_in-depth:_worldwide_report"
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,"Swine_flu,_in-depth:_worldwide_report"
+Vietnam,16.16667,107.83333,VN,A,95540395,fuzzySWHighMatch1,vietnam,"Swine_flu,_in-depth:_worldwide_report"
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,"Swine_flu,_in-depth:_worldwide_report"
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,"Swine_flu,_in-depth:_worldwide_report"
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Swine_flu:_recent_developments_worldwide
+Egypt,27.0,30.0,EG,A,98423595,fuzzySWHighMatch1,egypt,Swine_flu:_recent_developments_worldwide
+Bulgaria,42.66667,25.25,BG,A,7000039,fuzzySWHighMatch1,bulgaria,Swine_flu:_recent_developments_worldwide
+Nicaragua,13.0,-85.0,NI,A,6465513,fuzzySWHighMatch1,nicaragua,Swine_flu:_recent_developments_worldwide
+Lebanon,33.83333,35.83333,LB,A,6848925,fuzzySWHighMatch1,lebanon,Swine_flu:_recent_developments_worldwide
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,Swine_flu:_recent_developments_worldwide
+Victoria,-37.0,145.0,AU,A,6526400,fuzzySWHighMatch1,victoria,Swine_flu:_recent_developments_worldwide
+New South Wales,-33.0,146.0,AU,A,8046100,fuzzySWHighMatch1,new south wales,Swine_flu:_recent_developments_worldwide
+Singapore,1.28967,103.85007,SG,P,5638700,fuzzySWHighMatch1,singapore,Swine_flu:_recent_developments_worldwide
+Melbourne,-37.814,144.96332,AU,P,4246375,fuzzySWHighMatch1,melbourne,Swine_flu:_recent_developments_worldwide
+Brazil,-10.0,-55.0,BR,A,209469333,fuzzySWHighMatch1,brazil,Swine_flu:_recent_developments_worldwide
+São Paulo,-22.0,-49.0,BR,A,41252160,fuzzySWHighMatch2,são paulo,Swine_flu:_recent_developments_worldwide
+Rio de Janeiro,-22.25,-42.5,BR,A,15993583,fuzzySWHighMatch1,rio de janeiro,Swine_flu:_recent_developments_worldwide
+Santa Catarina,-27.0,-50.0,BR,A,6249682,fuzzySWHighMatch1,santa catarina,Swine_flu:_recent_developments_worldwide
+Rio Grande do Sul,-30.0,-53.5,BR,A,10695532,fuzzySWHighMatch1,rio grande do sul,Swine_flu:_recent_developments_worldwide
+Tocantins,-10.5,-48.0,BR,A,1383453,fuzzySWHighMatch1,tocantins,Swine_flu:_recent_developments_worldwide
+Minas Gerais,-18.0,-44.0,BR,A,19595309,fuzzySWHighMatch1,minas gerais,Swine_flu:_recent_developments_worldwide
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Swine_flu:_recent_developments_worldwide
+Chile,-30.0,-71.0,CL,A,18729160,fuzzySWHighMatch1,chile,Swine_flu:_recent_developments_worldwide
+Santiago,-33.45694,-70.64827,CL,P,4837295,fuzzySWHighMatch1,santiago,Swine_flu:_recent_developments_worldwide
+New Zealand,-42.0,174.0,NZ,A,4885500,fuzzySWHighMatch1,new zealand,Swine_flu:_recent_developments_worldwide
+Philippines,13.40882,122.56155,PH,A,106651922,fuzzySWHighMatch1,philippines,Swine_flu:_recent_developments_worldwide
+Russia,60.0,100.0,RU,A,144478050,fuzzySWHighMatch1,russia,Swine_flu:_recent_developments_worldwide
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,Swine_flu:_recent_developments_worldwide
+Moscow,55.76167,37.60667,RU,A,11503501,fuzzySWHighMatch1,moscow,Swine_flu:_recent_developments_worldwide
+Américas,9.89896,-83.67407,CR,P,0,fuzzySWHighMatch2,americas,Swine_flu:_recent_developments_worldwide
+Japan,35.68536,139.75309,JP,A,126529100,fuzzySWHighMatch1,japan,Swine_flu:_recent_developments_worldwide
+Spain,40.0,-4.0,ES,A,46723749,fuzzySWHighMatch1,spain,Swine_flu:_recent_developments_worldwide
+Turkey,39.0,35.0,TR,A,82319724,fuzzySWHighMatch1,turkey,Swine_flu:_recent_developments_worldwide
+Iraq,33.0,44.0,IQ,A,38433600,fuzzySWHighMatch2,iraq,Swine_flu:_recent_developments_worldwide
+Toronto,43.70011,-79.4163,CA,P,2600000,fuzzySWHighMatch1,toronto,Swine_flu:_recent_developments_worldwide
+Istanbul,41.01384,28.94966,TR,P,14804116,fuzzySWHighMatch1,istanbul,Swine_flu:_recent_developments_worldwide
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,Swine_flu:_recent_developments_worldwide
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,Swine_flu:_recent_developments_worldwide
+Glasgow,55.86515,-4.25763,GB,P,591620,fuzzySWHighMatch1,glasgow,Swine_flu:_recent_developments_worldwide
+Paisley,55.83173,-4.43254,GB,P,76220,fuzzySWHighMatch1,paisley,Swine_flu:_recent_developments_worldwide
+Scotland,56.0,-4.0,GB,A,5404700,fuzzySWHighMatch1,scotland,Swine_flu:_recent_developments_worldwide
+Wisconsin,44.50024,-90.00041,US,A,5535168,fuzzySWHighMatch1,wisconsin,Swine_flu:_recent_developments_worldwide
+Vietnam,16.16667,107.83333,VN,A,95540395,fuzzySWHighMatch1,vietnam,Swine_flu:_recent_developments_worldwide
+Ho Chi Minh City,10.82302,106.62965,VN,P,8993082,fuzzySWHighMatch2,ho chi minh city,Swine_flu:_recent_developments_worldwide
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Swine_flu:_recent_developments_worldwide
+Fiji,-18.0,178.0,FJ,A,883483,fuzzySWHighMatch2,fiji,Swine_flu_cases_in_Fiji_reach_97
+Suva,-18.14161,178.44149,FJ,P,77366,fuzzySWHighMatch2,suva,Swine_flu_cases_in_Fiji_reach_97
+Nadi,-17.80309,177.41617,FJ,P,42284,fuzzySWHighMatch2,nadi,Swine_flu_cases_in_Fiji_reach_97
+Glasgow,55.86515,-4.25763,GB,P,591620,fuzzySWHighMatch1,glasgow,Swine_flu_claims_first_UK_victim
+Scotland,56.0,-4.0,GB,A,5404700,fuzzySWHighMatch1,scotland,Swine_flu_claims_first_UK_victim
+Paisley,55.83173,-4.43254,GB,P,76220,fuzzySWHighMatch1,paisley,Swine_flu_claims_first_UK_victim
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Swine_flu_claims_first_UK_victim
+Argentina,-34.0,-64.0,AR,A,44494502,fuzzySWHighMatch1,argentina,Swine_flu_deaths_reported_in_Argentina
+Buenos Aires,-36.0,-60.0,AR,A,15625084,fuzzySWHighMatch1,buenos aires,Swine_flu_deaths_reported_in_Argentina
+Chile,-30.0,-71.0,CL,A,18729160,fuzzySWHighMatch1,chile,Swine_flu_deaths_reported_in_Argentina
+Kisumu,-0.069,34.64,KE,A,968909,fuzzySWHighMatch1,kisumu,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+Nairobi,-1.28333,36.83333,KE,A,3138369,fuzzySWHighMatch1,nairobi,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+Nottingham,52.96667,-1.15,GB,A,325282,fuzzySWHighMatch1,nottingham,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+Kenya,1.0,38.0,KE,A,51393010,fuzzySWHighMatch1,kenya,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+Garissa,-0.172,40.041,KE,A,623060,fuzzySWHighMatch1,garissa,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,Swine_flu_patients_taken_to_Kenyan_capital_to_fly_home_to_UK_Sunday
+Mexico,23.0,-102.0,MX,A,126190788,fuzzySWHighMatch1,mexico,Swine_flu_reported_in_more_countries
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Swine_flu_reported_in_more_countries
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Swine_flu_reported_in_more_countries
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,Swine_flu_reported_in_more_countries
+Spain,40.0,-4.0,ES,A,46723749,fuzzySWHighMatch1,spain,Swine_flu_reported_in_more_countries
+New Zealand,-42.0,174.0,NZ,A,4885500,fuzzySWHighMatch1,new zealand,Swine_flu_reported_in_more_countries
+Israel,31.5,34.75,IL,A,8883800,fuzzySWHighMatch1,israel,Swine_flu_reported_in_more_countries
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,Swine_flu_reported_in_more_countries
+Mexico City,19.42847,-99.12766,MX,P,12294193,fuzzySWHighMatch1,mexico city,Swine_flu_reported_in_more_countries
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,Swine_flu_reported_in_more_countries
+Kansas,38.50029,-98.50063,US,A,2740759,fuzzySWHighMatch1,kansas,Swine_flu_reported_in_more_countries
+Ohio,40.25034,-83.00018,US,A,11467123,fuzzySWHighMatch2,ohio,Swine_flu_reported_in_more_countries
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,Swine_flu_reported_in_more_countries
+South Korea,36.5,127.75,KR,A,51635256,fuzzySWHighMatch1,south korea,Swine_flu_reported_in_more_countries
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Swine_flu_worldwide:_update
+Mexico,23.0,-102.0,MX,A,126190788,fuzzySWHighMatch1,mexico,Swine_flu_worldwide:_update
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Swine_flu_worldwide:_update
+British Columbia,53.99983,-125.0032,CA,A,4413973,fuzzySWHighMatch1,british columbia,Swine_flu_worldwide:_update
+Nova Scotia,45.00015,-62.99865,CA,A,935573,fuzzySWHighMatch1,nova scotia,Swine_flu_worldwide:_update
+Ontario,49.25014,-84.49983,CA,A,12861940,fuzzySWHighMatch1,ontario,Swine_flu_worldwide:_update
+Alberta,52.28333,-117.469,CA,A,3497881,fuzzySWHighMatch1,alberta,Swine_flu_worldwide:_update
+New Brunswick,46.5001,-65.99878,CA,A,751250,fuzzySWHighMatch1,new brunswick,Swine_flu_worldwide:_update
+Quebec,52.00017,-71.99907,CA,A,8585523,fuzzySWHighMatch1,quebec,Swine_flu_worldwide:_update
+Cairo,30.06263,31.24967,EG,P,9606916,fuzzySWHighMatch1,cairo,Swine_flu_worldwide:_update
+Egypt,27.0,30.0,EG,A,98423595,fuzzySWHighMatch1,egypt,Swine_flu_worldwide:_update
+Bavaria,49.0,11.5,DE,A,12510331,fuzzySWHighMatch1,bavaria,Swine_flu_worldwide:_update
+Germany,51.5,10.5,DE,A,82927922,fuzzySWHighMatch1,germany,Swine_flu_worldwide:_update
+Spain,40.0,-4.0,ES,A,46723749,fuzzySWHighMatch1,spain,Swine_flu_worldwide:_update
+Hong Kong,22.27832,114.17469,HK,P,7482500,fuzzySWHighMatch2,hong kong,Swine_flu_worldwide:_update
+Shanghai,31.22222,121.45806,CN,P,22315474,fuzzySWHighMatch1,shanghai,Swine_flu_worldwide:_update
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,Swine_flu_worldwide:_update
+New Zealand,-42.0,174.0,NZ,A,4885500,fuzzySWHighMatch1,new zealand,Swine_flu_worldwide:_update
+Auckland,-36.85,174.78333,NZ,A,444100,fuzzySWHighMatch1,auckland,Swine_flu_worldwide:_update
+Nigeria,10.0,8.0,NG,A,195874740,fuzzySWHighMatch1,nigeria,Swine_flu_worldwide:_update
+Delaware,39.00039,-75.49992,US,A,838549,fuzzySWHighMatch1,delaware,Swine_flu_worldwide:_update
+Illinois,40.00032,-89.25037,US,A,12772888,fuzzySWHighMatch1,illinois,Swine_flu_worldwide:_update
+Kentucky,38.20042,-84.87762,US,A,4206074,fuzzySWHighMatch1,kentucky,Swine_flu_worldwide:_update
+South Carolina,34.00043,-81.00009,US,A,4229842,fuzzySWHighMatch1,south carolina,Swine_flu_worldwide:_update
+Tennessee,35.75035,-86.25027,US,A,5935099,fuzzySWHighMatch1,tennessee,Swine_flu_worldwide:_update
+Houston,29.76328,-95.36327,US,P,2296224,fuzzySWHighMatch1,houston,Swine_flu_worldwide:_update
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,Swine_flu_worldwide:_update
+Alabama,32.75041,-86.75026,US,A,4530315,fuzzySWHighMatch1,alabama,Swine_flu_worldwide:_update
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,Swine_flu_worldwide:_update
+Long Island,23.21667,-75.11167,BS,A,2979,fuzzySWHighMatch1,long island,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+Pennsylvania,40.8,-77.7,US,A,12440621,fuzzySWHighMatch1,pennsylvania,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+New Jersey,40.16706,-74.49987,US,A,8751436,fuzzySWHighMatch1,new jersey,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+Irvine,33.66946,-117.82311,US,P,256927,fuzzySWHighMatch1,irvine,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+Irwindale,34.10695,-117.93534,US,P,1437,fuzzySWHighMatch1,irwindale,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+Oxnard,34.1975,-119.17705,US,P,207254,fuzzySWHighMatch1,oxnard,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Usa,Taco_Bell_pulls_green_onions_from_all_U.S._and_Canadian_stores
+Taiwan,24.0,121.0,TW,A,23451837,fuzzySWHighMatch1,taiwan,Taiwan_culls_18000_chickens_due_to_H5N2_virus_outbreak
+Taoyuan,24.895,121.24611,TW,A,2044023,fuzzySWHighMatch1,taoyuan,Taiwan_culls_18000_chickens_due_to_H5N2_virus_outbreak
+Kaohsiung,22.6533,120.33806,TW,A,2779877,fuzzySWHighMatch1,kaohsiung,Taiwan_culls_18000_chickens_due_to_H5N2_virus_outbreak
+Burkina Faso,12.5,-1.66667,BF,A,19751535,fuzzySWHighMatch1,burkina faso,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+Ouagadougou,12.36566,-1.53388,BF,P,1086505,fuzzySWHighMatch1,ouagadougou,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+Benin,9.5,2.25,BJ,A,11485048,fuzzySWHighMatch1,benin,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+Ghana,8.1,-1.2,GH,A,29767108,fuzzySWHighMatch1,ghana,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+Guinea,10.83333,-10.66667,GN,A,12414318,fuzzySWHighMatch1,guinea,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+Niger,18.0,9.0,NE,A,22442948,fuzzySWHighMatch1,niger,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+Senegal,14.5,-14.25,SN,A,15854360,fuzzySWHighMatch1,senegal,Thousands_displaced_after_heavy_flooding_in_Burkina_Faso
+Cornwall,50.41667,-4.75,GB,A,553687,fuzzySWHighMatch1,cornwall,"Three_die_in_Cornwall,_UK_caravan_park_of_suspected_carbon_monoxide_poisoning"
+Camborne,50.21306,-5.29731,GB,P,22500,fuzzySWHighMatch1,camborne,"Three_die_in_Cornwall,_UK_caravan_park_of_suspected_carbon_monoxide_poisoning"
+Devon,50.75,-3.75,GB,A,779834,fuzzySWHighMatch1,devon,"Three_die_in_Cornwall,_UK_caravan_park_of_suspected_carbon_monoxide_poisoning"
+Acapulco,10.16181,-84.80643,CR,A,1296,fuzzySWHighMatch1,acapulco,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+Guerrero,17.66667,-100.0,MX,A,3237579,fuzzySWHighMatch1,guerrero,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+Mexico,23.0,-102.0,MX,A,126190788,fuzzySWHighMatch1,mexico,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+Mexico City,19.42847,-99.12766,MX,P,12294193,fuzzySWHighMatch1,mexico city,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Tourists_evacuated_following_shootout_between_Mexican_army_and_drug_hitmen
+Esperance,-33.85919,121.89164,AU,P,2263,fuzzySWHighMatch1,esperance,Toxic_wetlands_may_be_cause_of_thousands_of_bird_deaths_in_Western_Australia
+Australia,-25.0,135.0,AU,A,24992369,fuzzySWHighMatch1,australia,Toxic_wetlands_may_be_cause_of_thousands_of_bird_deaths_in_Western_Australia
+Weiswampach,50.13722,6.075,LU,P,691,fuzzySWHighMatch1,weiswampach,Triathletes_from_Belgium_and_Luxembourg_compete_in_championship_race
+Luxembourg,49.75,6.16667,LU,A,607728,fuzzySWHighMatch1,luxembourg,Triathletes_from_Belgium_and_Luxembourg_compete_in_championship_race
+Belgium,50.75,4.5,BE,A,11422068,fuzzySWHighMatch1,belgium,Triathletes_from_Belgium_and_Luxembourg_compete_in_championship_race
+Vilvoorde,50.9289,4.4323,BE,A,44727,fuzzySWHighMatch1,vilvoorde,Triathletes_from_Belgium_and_Luxembourg_compete_in_championship_race
+Netherlands,52.25,5.75,NL,A,17231017,fuzzySWHighMatch1,netherlands,Triathletes_from_Belgium_and_Luxembourg_compete_in_championship_race
+New Zealand,-42.0,174.0,NZ,A,4885500,fuzzySWHighMatch1,new zealand,Triathletes_from_Belgium_and_Luxembourg_compete_in_championship_race
+Indonesia,-5.0,120.0,ID,A,267663435,fuzzySWHighMatch1,indonesia,"Tsunami_deaths_mount_to_more_than_120,000"
+Sri Lanka,7.75,80.75,LK,A,21670000,fuzzySWHighMatch2,sri lanka,"Tsunami_deaths_mount_to_more_than_120,000"
+India,22.0,79.0,IN,A,1352617328,fuzzySWHighMatch1,india,"Tsunami_deaths_mount_to_more_than_120,000"
+Malaysia,2.5,112.5,MY,A,31528585,fuzzySWHighMatch1,malaysia,"Tsunami_deaths_mount_to_more_than_120,000"
+Myanmar,21.0,96.0,MM,A,53708395,fuzzySWHighMatch1,myanmar,"Tsunami_deaths_mount_to_more_than_120,000"
+Bangladesh,24.0,90.0,BD,A,161356039,fuzzySWHighMatch1,bangladesh,"Tsunami_deaths_mount_to_more_than_120,000"
+Maldives,3.2,73.0,MV,A,515696,fuzzySWHighMatch1,maldives,"Tsunami_deaths_mount_to_more_than_120,000"
+Somalia,6.0,48.0,SO,A,15008154,fuzzySWHighMatch1,somalia,"Tsunami_deaths_mount_to_more_than_120,000"
+Tanzania,-6.0,35.0,TZ,A,56318348,fuzzySWHighMatch1,tanzania,"Tsunami_deaths_mount_to_more_than_120,000"
+Kenya,1.0,38.0,KE,A,51393010,fuzzySWHighMatch1,kenya,"Tsunami_deaths_mount_to_more_than_120,000"
+Sweden,62.0,15.0,SE,A,10183175,fuzzySWHighMatch1,sweden,"Tsunami_deaths_mount_to_more_than_120,000"
+Turkey,39.0,35.0,TR,A,82319724,fuzzySWHighMatch1,turkey,Turkish_government_accused_of_being_too_slow_to_respond_to_bird_flu
+Turkey,39.0,35.0,TR,A,82319724,fuzzySWHighMatch1,turkey,Turkish_teenager_dies_from_bird_flu
+Van,38.40736,43.71779,TR,A,1070113,fuzzySWHighMatch2,van,Turkish_teenager_dies_from_bird_flu
+Baghdad,33.31667,44.36667,IQ,A,14000000,fuzzySWHighMatch1,baghdad,Two_children_killed_after_eating_poisonous_cake_in_Iraq
+Iraq,33.0,44.0,IQ,A,38433600,fuzzySWHighMatch2,iraq,Two_children_killed_after_eating_poisonous_cake_in_Iraq
+Amman,31.58369,36.33335,JO,A,1972712,fuzzySWHighMatch1,amman,Two_children_killed_after_eating_poisonous_cake_in_Iraq
+Jordan,31.0,36.0,JO,A,9956011,fuzzySWHighMatch1,jordan,Two_children_killed_after_eating_poisonous_cake_in_Iraq
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,Two_children_killed_after_eating_poisonous_cake_in_Iraq
+Hammond,41.58337,-87.50004,US,P,77614,fuzzySWHighMatch1,hammond,Two_new_cases_of_West_Nile_Virus_reported_in_Indiana
+Indiana,40.00032,-86.25027,US,A,6265933,fuzzySWHighMatch1,indiana,Two_new_cases_of_West_Nile_Virus_reported_in_Indiana
+Iraq,33.0,44.0,IQ,A,38433600,fuzzySWHighMatch2,iraq,U.S._Democrats_highlight_water_quality_issues_for_troops_in_Iraq
+Kuwait,29.5,47.75,KW,A,4137309,fuzzySWHighMatch1,kuwait,U.S._Democrats_highlight_water_quality_issues_for_troops_in_Iraq
+Cedar City,37.67748,-113.06189,US,P,30184,fuzzySWHighMatch1,cedar city,U.S._Democrats_highlight_water_quality_issues_for_troops_in_Iraq
+Utah,39.25024,-111.75103,US,A,2427340,fuzzySWHighMatch2,utah,U.S._Democrats_highlight_water_quality_issues_for_troops_in_Iraq
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,U.S._superbug_expected_to_emerge_in_Canada
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,U.S._superbug_expected_to_emerge_in_Canada
+British Columbia,53.99983,-125.0032,CA,A,4413973,fuzzySWHighMatch1,british columbia,U.S._superbug_expected_to_emerge_in_Canada
+Alberta,52.28333,-117.469,CA,A,3497881,fuzzySWHighMatch1,alberta,U.S._superbug_expected_to_emerge_in_Canada
+Saskatchewan,54.0001,-106.00099,CA,A,1006644,fuzzySWHighMatch1,saskatchewan,U.S._superbug_expected_to_emerge_in_Canada
+Manitoba,55.00019,-97.00049,CA,A,1193566,fuzzySWHighMatch1,manitoba,U.S._superbug_expected_to_emerge_in_Canada
+Ontario,49.25014,-84.49983,CA,A,12861940,fuzzySWHighMatch1,ontario,U.S._superbug_expected_to_emerge_in_Canada
+Calgary,51.05011,-114.08529,CA,P,1019942,fuzzySWHighMatch1,calgary,U.S._superbug_expected_to_emerge_in_Canada
+Toronto,43.70011,-79.4163,CA,P,2600000,fuzzySWHighMatch1,toronto,U.S._superbug_expected_to_emerge_in_Canada
+Northern Ireland,54.5,-6.5,GB,A,1862137,fuzzySWHighMatch1,northern ireland,"UK_Wikinews_Shorts:_December_23,_2009"
+Spain,40.0,-4.0,ES,A,46723749,fuzzySWHighMatch1,spain,"UK_Wikinews_Shorts:_December_23,_2009"
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,"UK_Wikinews_Shorts:_December_23,_2009"
+Mbanza Congo,-6.26667,14.23833,AO,P,24220,fuzzySWHighMatch1,mbanza congo,UNHCR:_Thousands_of_Angolans_expelled_from_DRC_in_%22dire%22_need_of_aid
+Angola,-12.5,18.5,AO,A,30809762,fuzzySWHighMatch1,angola,UNHCR:_Thousands_of_Angolans_expelled_from_DRC_in_%22dire%22_need_of_aid
+DR Congo,-2.5,23.5,CD,A,84068091,resolvedByAliace,DRC,UNHCR:_Thousands_of_Angolans_expelled_from_DRC_in_%22dire%22_need_of_aid
+Kenya,1.0,38.0,KE,A,51393010,fuzzySWHighMatch1,kenya,UN_appeals_for_US$42_million_to_assist_victims_of_Kenya_violence
+Uganda,1.25,32.5,UG,A,42723139,fuzzySWHighMatch1,uganda,UN_appeals_for_US$42_million_to_assist_victims_of_Kenya_violence
+Egypt,27.0,30.0,EG,A,98423595,fuzzySWHighMatch1,egypt,UN_says_polio_eradicated_in_Egypt_and_Niger
+Niger,18.0,9.0,NE,A,22442948,fuzzySWHighMatch1,niger,UN_says_polio_eradicated_in_Egypt_and_Niger
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,UN_says_polio_eradicated_in_Egypt_and_Niger
+Nigeria,10.0,8.0,NG,A,195874740,fuzzySWHighMatch1,nigeria,UN_says_polio_eradicated_in_Egypt_and_Niger
+Turkey,39.0,35.0,TR,A,82319724,fuzzySWHighMatch1,turkey,UN_warns_neighbours_of_Turkey_about_bird_flu
+Armenia,40.25,45.0,AM,A,2951776,fuzzySWHighMatch1,armenia,UN_warns_neighbours_of_Turkey_about_bird_flu
+Azerbaijan,40.5,47.5,AZ,A,9942334,fuzzySWHighMatch1,azerbaijan,UN_warns_neighbours_of_Turkey_about_bird_flu
+Georgia,32.75042,-83.50018,US,A,8975842,fuzzySWHighMatch1,georgia,UN_warns_neighbours_of_Turkey_about_bird_flu
+Iraq,33.0,44.0,IQ,A,38433600,fuzzySWHighMatch2,iraq,UN_warns_neighbours_of_Turkey_about_bird_flu
+Iran,32.0,53.0,IR,A,81800269,fuzzySWHighMatch2,iran,UN_warns_neighbours_of_Turkey_about_bird_flu
+Syria,35.0,38.0,SY,A,16906283,fuzzySWHighMatch1,syria,UN_warns_neighbours_of_Turkey_about_bird_flu
+Ceres,37.59493,-120.95771,US,P,47963,fuzzySWHighMatch1,ceres,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+Mississauga,43.5789,-79.6583,CA,P,668549,fuzzySWHighMatch1,mississauga,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+Ontario,49.25014,-84.49983,CA,A,12861940,fuzzySWHighMatch1,ontario,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,US:_Melamine_from_contaminated_pet_food_enters_human_food_chain
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,USDA_says_mad_cow_disease_found_in_cow_in_California
+Ames,42.03471,-93.61994,US,P,65060,fuzzySWHighMatch2,ames,USDA_says_mad_cow_disease_found_in_cow_in_California
+Iowa,42.00027,-93.50049,US,A,2955010,fuzzySWHighMatch2,iowa,USDA_says_mad_cow_disease_found_in_cow_in_California
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,USDA_says_mad_cow_disease_found_in_cow_in_California
+Washington,47.50012,-120.50147,US,A,6271775,fuzzySWHighMatch1,washington,USDA_says_mad_cow_disease_found_in_cow_in_California
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,USDA_says_mad_cow_disease_found_in_cow_in_California
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,US_and_Vietnam_begin_talks_to_decontaminate_areas_affected_by_Agent_Orange
+Hanoi,21.0245,105.84117,VN,P,8053663,fuzzySWHighMatch1,hanoi,US_and_Vietnam_begin_talks_to_decontaminate_areas_affected_by_Agent_Orange
+Vietnam,16.16667,107.83333,VN,A,95540395,fuzzySWHighMatch1,vietnam,US_and_Vietnam_begin_talks_to_decontaminate_areas_affected_by_Agent_Orange
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,US_and_Vietnam_begin_talks_to_decontaminate_areas_affected_by_Agent_Orange
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,US_declares_public_health_emergency_over_spread_of_swine_flu
+Queens,40.68149,-73.83652,US,P,2272771,fuzzySWHighMatch1,queens,US_declares_public_health_emergency_over_spread_of_swine_flu
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,US_declares_public_health_emergency_over_spread_of_swine_flu
+Ohio,40.25034,-83.00018,US,A,11467123,fuzzySWHighMatch2,ohio,US_declares_public_health_emergency_over_spread_of_swine_flu
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,US_declares_public_health_emergency_over_spread_of_swine_flu
+Kansas,38.50029,-98.50063,US,A,2740759,fuzzySWHighMatch1,kansas,US_declares_public_health_emergency_over_spread_of_swine_flu
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,US_declares_public_health_emergency_over_spread_of_swine_flu
+Colorado,39.00027,-105.50083,US,A,4678630,fuzzySWHighMatch1,colorado,US_food_regulators_recall_380_million_eggs_after_salmonella_outbreak
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,US_food_regulators_recall_380_million_eggs_after_salmonella_outbreak
+Minnesota,46.25024,-94.25055,US,A,5141953,fuzzySWHighMatch1,minnesota,US_food_regulators_recall_380_million_eggs_after_salmonella_outbreak
+Iowa,42.00027,-93.50049,US,A,2955010,fuzzySWHighMatch2,iowa,US_food_regulators_recall_380_million_eggs_after_salmonella_outbreak
+Utah,39.25024,-111.75103,US,A,2427340,fuzzySWHighMatch2,utah,US_military_to_buy_anthrax_and_bioweapons_production_systems
+Germany,51.5,10.5,DE,A,82927922,fuzzySWHighMatch1,germany,US_military_to_buy_anthrax_and_bioweapons_production_systems
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,US_military_to_buy_anthrax_and_bioweapons_production_systems
+Minnesota,46.25024,-94.25055,US,A,5141953,fuzzySWHighMatch1,minnesota,"US_salmonella_outbreak_linked_to_peanut_butter,_brand_recalls_product"
+Solon,41.38978,-81.44123,US,P,23043,fuzzySWHighMatch1,solon,"US_salmonella_outbreak_linked_to_peanut_butter,_brand_recalls_product"
+Lynchburg,37.41375,-79.14225,US,P,79812,fuzzySWHighMatch1,lynchburg,"US_salmonella_outbreak_linked_to_peanut_butter,_brand_recalls_product"
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,"US_salmonella_outbreak_linked_to_peanut_butter,_brand_recalls_product"
+Georgia,32.75042,-83.50018,US,A,8975842,fuzzySWHighMatch1,georgia,"US_salmonella_outbreak_linked_to_peanut_butter,_brand_recalls_product"
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,US_soldier_who_died_after_serving_in_Liberia_tests_negative_for_Ebola
+Liberia,6.5,-9.5,LR,A,4818977,fuzzySWHighMatch1,liberia,US_soldier_who_died_after_serving_in_Liberia_tests_negative_for_Ebola
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,US_soldier_who_died_after_serving_in_Liberia_tests_negative_for_Ebola
+Zimbabwe,-19.0,29.75,ZW,A,14439018,fuzzySWHighMatch1,zimbabwe,WHO:_Polio_reemerging_in_Africa
+Angola,-12.5,18.5,AO,A,30809762,fuzzySWHighMatch1,angola,WHO:_Polio_reemerging_in_Africa
+Chad,15.0,19.0,TD,A,15477751,fuzzySWHighMatch2,chad,WHO:_Polio_reemerging_in_Africa
+Mexico,23.0,-102.0,MX,A,126190788,fuzzySWHighMatch1,mexico,WHO_director:_Pandemic_alert_level_will_not_be_raised
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,WHO_director:_Pandemic_alert_level_will_not_be_raised
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,WHO_director:_Pandemic_alert_level_will_not_be_raised
+Japan,35.68536,139.75309,JP,A,126529100,fuzzySWHighMatch1,japan,WHO_director:_Pandemic_alert_level_will_not_be_raised
+United Kingdom,54.75844,-2.69531,GB,A,66488991,fuzzySWHighMatch1,united kingdom,WHO_director:_Pandemic_alert_level_will_not_be_raised
+United Kingdom,54.75844,-2.69531,GB,A,66488991,resolvedByAliace,Uk,WHO_director:_Pandemic_alert_level_will_not_be_raised
+Mombo,-6.13813,17.10727,CD,P,0,fuzzySWHighMatch1,mombo,WHO_investigates_outbreak_of_unidentified_illness_in_Democratic_Republic_of_the_Congo
+DR Congo,-2.5,23.5,CD,A,84068091,resolvedByAliace,DRC,WHO_investigates_outbreak_of_unidentified_illness_in_Democratic_Republic_of_the_Congo
+Kampungu,-9.5756,25.08159,CD,P,0,HighPop,kampungu,WHO_investigates_outbreak_of_unidentified_illness_in_Democratic_Republic_of_the_Congo
+Américas,9.89896,-83.67407,CR,P,0,fuzzySWHighMatch2,americas,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+Canada,60.10867,-113.64258,CA,A,37058856,fuzzySWHighMatch1,canada,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+Nicaragua,13.0,-85.0,NI,A,6465513,fuzzySWHighMatch1,nicaragua,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+Suriname,4.0,-56.0,SR,A,575991,fuzzySWHighMatch1,suriname,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+French Guiana,4.0,-53.0,GF,A,195506,fuzzySWHighMatch1,french guiana,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+Haiti,19.07582,-72.29616,HT,A,11123176,fuzzySWHighMatch1,haiti,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+Dominican Republic,19.0,-70.66667,DO,A,10627165,fuzzySWHighMatch1,dominican republic,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,WHO_starts_simultaneous_immunization_campaigns_in_over_100_countries
+Burkina Faso,12.5,-1.66667,BF,A,19751535,fuzzySWHighMatch1,burkina faso,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Guinea,10.83333,-10.66667,GN,A,12414318,fuzzySWHighMatch1,guinea,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Guinea-Bissau,12.0,-15.0,GW,A,1874309,fuzzySWHighMatch1,guinea-bissau,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Liberia,6.5,-9.5,LR,A,4818977,fuzzySWHighMatch1,liberia,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Mauritania,20.25,-10.5,MR,A,4403319,fuzzySWHighMatch1,mauritania,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Mali,18.0,-2.0,ML,A,19077690,fuzzySWHighMatch2,mali,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Niger,18.0,9.0,NE,A,22442948,fuzzySWHighMatch1,niger,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Senegal,14.5,-14.25,SN,A,15854360,fuzzySWHighMatch1,senegal,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Nigeria,10.0,8.0,NG,A,195874740,fuzzySWHighMatch1,nigeria,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Cameroon,6.0,12.5,CM,A,25216237,fuzzySWHighMatch1,cameroon,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Chad,15.0,19.0,TD,A,15477751,fuzzySWHighMatch2,chad,"West_African_cholera_claims_more_than_500_lives,_more_deaths_feared"
+Buffalo,42.88645,-78.87837,US,P,258071,fuzzySWHighMatch1,buffalo,"White_powder_found_at_Buffalo,_N.Y._courthouse"
+New York,43.00035,-75.4999,US,A,19274244,fuzzySWHighMatch2,new york,"White_powder_found_at_Buffalo,_N.Y._courthouse"
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,Whooping_cough_outbreak_kills_ten_infants_in_California
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,Whooping_cough_outbreak_kills_ten_infants_in_California
+Texas,31.25044,-99.25061,US,A,22875689,fuzzySWHighMatch1,texas,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+Longview,32.5007,-94.74049,US,P,82287,fuzzySWHighMatch1,longview,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+Tyler,32.35126,-95.30106,US,P,103700,fuzzySWHighMatch1,tyler,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+Fairfield,41.22496,-73.3712,US,A,916829,fuzzySWHighMatch1,fairfield,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+Malakoff,48.81667,2.3,FR,A,29973,fuzzySWHighMatch1,malakoff,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+Dallas,32.76663,-96.77787,US,A,2368139,fuzzySWHighMatch1,dallas,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+Austin,30.26715,-97.74306,US,P,931830,fuzzySWHighMatch1,austin,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+United States,39.76,-98.5,US,A,327167434,resolvedByAliace,Us,"Wikinews_finds_citizens%27_feelings,_actions_throughout_Texas_regarding_West_Nile_virus_threat_vary_greatly"
+Dorset,50.75,-2.33333,GB,A,422727,fuzzySWHighMatch1,dorset,Wild_Canadian_Goose_tests_positive_for_H5N1_in_England
+England,52.16045,-0.70312,GB,A,56286961,fuzzySWHighMatch1,england,Wild_Canadian_Goose_tests_positive_for_H5N1_in_England
+Rice Lake,45.50607,-91.73823,US,P,8391,fuzzySWHighMatch2,rice lake,Wild_ducks_in_Illinois_test_positive_for_%22low_pathogenic%22_Bird_Flu_virus
+Illinois,40.00032,-89.25037,US,A,12772888,fuzzySWHighMatch1,illinois,Wild_ducks_in_Illinois_test_positive_for_%22low_pathogenic%22_Bird_Flu_virus
+Zimbabwe,-19.0,29.75,ZW,A,14439018,fuzzySWHighMatch1,zimbabwe,"With_arrival_of_rainy_season,_perennial_scramble_in_Zimbabwe_for_seed,_fertilizer"
+Wedza,-18.61731,31.5736,ZW,P,0,fuzzySWHighMatch1,wedza,"With_arrival_of_rainy_season,_perennial_scramble_in_Zimbabwe_for_seed,_fertilizer"
+Midlands,-20.31907,57.57016,MU,P,4546,fuzzySWHighMatch1,midlands,"With_arrival_of_rainy_season,_perennial_scramble_in_Zimbabwe_for_seed,_fertilizer"
+San Jose,37.33939,-121.89496,US,P,1026908,fuzzySWHighMatch2,san jose,Woman_finds_human_finger_in_bowl_of_chili_at_Wendy%27s_restaurant
+California,37.25022,-119.75126,US,A,39512223,fuzzySWHighMatch1,california,Woman_finds_human_finger_in_bowl_of_chili_at_Wendy%27s_restaurant
+Las Vegas,36.17497,-115.13722,US,P,623747,fuzzySWHighMatch2,las vegas,Woman_finds_human_finger_in_bowl_of_chili_at_Wendy%27s_restaurant
+Johannesburg,-26.20227,28.04363,ZA,P,2026469,fuzzySWHighMatch1,johannesburg,World_AIDS_Day_events_held_around_the_globe
+South Africa,-29.0,24.0,ZA,A,57779622,fuzzySWHighMatch1,south africa,World_AIDS_Day_events_held_around_the_globe
+Midrand,-25.98953,28.12843,ZA,P,87387,fuzzySWHighMatch1,midrand,World_AIDS_Day_events_held_around_the_globe
+Gauteng,-26.08333,28.25,ZA,A,10058121,fuzzySWHighMatch1,gauteng,World_AIDS_Day_events_held_around_the_globe
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,World_AIDS_Day_events_held_around_the_globe
+Beijing,39.9075,116.39723,CN,P,18960744,fuzzySWHighMatch1,beijing,World_AIDS_Day_events_held_around_the_globe
+Shanghai,31.22222,121.45806,CN,P,22315474,fuzzySWHighMatch1,shanghai,World_AIDS_Day_events_held_around_the_globe
+Changsha,28.19874,112.97087,CN,P,3093980,fuzzySWHighMatch1,changsha,World_AIDS_Day_events_held_around_the_globe
+Sanya,18.24306,109.505,CN,P,1031396,fuzzySWHighMatch1,sanya,World_AIDS_Day_events_held_around_the_globe
+United States,39.76,-98.5,US,A,327167434,fuzzySWHighMatch1,united states,World_AIDS_Day_events_held_around_the_globe
+Cambodia,13.0,105.0,KH,A,16249798,fuzzySWHighMatch1,cambodia,World_Bank_warns_of_high_bird_flu_cost
+Laos,18.0,105.0,LA,A,7061507,fuzzySWHighMatch2,laos,World_Bank_warns_of_high_bird_flu_cost
+Thailand,15.5,101.0,TH,A,69428524,fuzzySWHighMatch1,thailand,World_Bank_warns_of_high_bird_flu_cost
+Vietnam,16.16667,107.83333,VN,A,95540395,fuzzySWHighMatch1,vietnam,World_Bank_warns_of_high_bird_flu_cost
+Beijing,39.9075,116.39723,CN,P,18960744,fuzzySWHighMatch1,beijing,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+Hong Kong,22.27832,114.17469,HK,P,7482500,fuzzySWHighMatch2,hong kong,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+China,35.0,105.0,CN,A,1411778724,fuzzySWHighMatch1,china,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+Russia,60.0,100.0,RU,A,144478050,fuzzySWHighMatch1,russia,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+Vietnam,16.16667,107.83333,VN,A,95540395,fuzzySWHighMatch1,vietnam,World_Health_Organisation:_China_engaging_in_bird_flu_cover_up
+Uganda,1.25,32.5,UG,A,42723139,fuzzySWHighMatch1,uganda,World_Health_Organization:_Stay_away_from_Ugandan_caves
+Netherlands,52.25,5.75,NL,A,17231017,fuzzySWHighMatch1,netherlands,World_Health_Organization:_Stay_away_from_Ugandan_caves
+Soviet Union,60.0,98.0,,A,0,fuzzySWHighMatch1,soviet union,World_Health_Organization:_Stay_away_from_Ugandan_caves
