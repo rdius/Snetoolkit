@@ -105,7 +105,18 @@ As the disambiguation is process in several steps, the output are :
 Respectively, in the same path ./disambiguated, you will find the corresponding non-ambiguous SNE files
 
 - Main architecture
+
 ![alt tag](./process.png)
+
+Additional Resources
+-------------------------
+
+- If you use the SNEToolkit in your research, please consider citing our paper:
+
+  Rodrique Kafando, Rémy Decoupes, Mathieu Roche, Maguelonne Teisseire. [SNEToolkit: Spatial named entities disambiguation toolkit](https://doi.org/10.1016/j.softx.2023.101480). SoftwareX, 2023, 23, pp.101480. DOI: 10.1016/j.softx.2023.101480. [hal-04195817](https://hal.archives-ouvertes.fr/hal-04195817)
+
+  [![DOI](https://img.shields.io/badge/DOI-10.1016/j.softx.2023.101480-blue)](https://doi.org/10.1016/j.softx.2023.101480)
+
 
 Waiting for your feedback!
 -------------------------
